@@ -7,5 +7,6 @@ payload:
   - DOMAIN-SUFFIX,lnj.ddns.net
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,sg.wangs.live
+  - DOMAIN-SUFFIX,deja-vu.beauty
   - IP-CIDR,46.38.239.238/22
   - DST-PORT, 8096
