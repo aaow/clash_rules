@@ -1,0 +1,7 @@
+payload:
+
+ - DOMAIN-SUFFIX,kleientertainment.com
+ - DOMAIN-SUFFIX,d2fr86khx60an2.cloudfront.net
+ - DOMAIN-SUFFIX,klei.com
+ - DST-PORT, 10999
+ - DST-PORT, 11000
