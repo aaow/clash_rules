@@ -1,0 +1,7 @@
+payload:
+
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-SUFFIX,twimg.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twimg.org
+  - DOMAIN-KEYWORD,whatsapp
