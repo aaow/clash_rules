@@ -1,33 +1,10 @@
 payload:
+
   #泥巴影院
   - DOMAIN-SUFFIX,mudvod.tv
   - DOMAIN-SUFFIX,newpppp.com
   - DOMAIN-SUFFIX,nbys1.tv
-  # Steam非中国大陆地区游戏下载/社区实况直播
-  - DOMAIN-SUFFIX,*.steamcontent.com
-  # Steam国际创意工坊下载CDN
-  - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net #CDN-Akamai
-  # Battle.net战网非中国大陆地区游戏下载
-  - DOMAIN-SUFFIX,level3.blizzard.com #CDN-Level3
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net #CDN-Akamai
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
-  - DOMAIN-SUFFIX,kr.cdn.blizzard.com #CDN-Blizzard
-  - DOMAIN-SUFFIX,us.cdn.blizzard.com
-  - DOMAIN-SUFFIX,eu.cdn.blizzard.com
-  # Epic Games非中国大陆地区游戏下载
-  - DOMAIN-SUFFIX,epicgames-download1.akamaized.net #CDN-Akamai
-  - DOMAIN-SUFFIX,download.epicgames.com #CDN-Amazon
-  - DOMAIN-SUFFIX,download2.epicgames.com
-  - DOMAIN-SUFFIX,download3.epicgames.com
-  - DOMAIN-SUFFIX,download4.epicgames.com
-  - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,helpshift.com
-  - DOMAIN-SUFFIX,paragon.com
-  - DOMAIN-SUFFIX,unrealengine.com
-  # GOG非中国大陆游戏下载/客户端更新
-  - DOMAIN-SUFFIX,cdn.gog.com
-  - DOMAIN-SUFFIX,galaxy-client-update.gog.com
-  - DOMAIN-SUFFIX,klei.com
+
   #国外dns
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net

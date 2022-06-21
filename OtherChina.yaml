@@ -1,8 +1,4 @@
 payload:
-  #泥巴影院
-  - DOMAIN-SUFFIX,mudvod.tv
-  - DOMAIN-SUFFIX,newpppp.com
-  - DOMAIN-SUFFIX,nbys1.tv
 
   - DOMAIN-SUFFIX,favicon.yandex.net
   #图床
