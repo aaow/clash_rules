@@ -25,5 +25,3 @@ payload:
   # GOG非中国大陆游戏下载/客户端更新
   - DOMAIN-SUFFIX,cdn.gog.com
   - DOMAIN-SUFFIX,galaxy-client-update.gog.com
-
-  - DOMAIN-SUFFIX,klei.com

@@ -1,10 +1,6 @@
 payload:
-
+ - DOMAIN-SUFFIX,klei.com
  - DOMAIN-SUFFIX,kleientertainment.com
  - DOMAIN-SUFFIX,items.kleientertainment.com
- - DOMAIN-SUFFIX,motd.klei.com
  - DOMAIN-SUFFIX,d2fr86khx60an2.cloudfront.net
- - DOMAIN-SUFFIX,klei.ca
- - DOMAIN-SUFFIX,lobby-cdn.klei.com
- - DOMAIN-SUFFIX,lobby-sing.klei.com
- - DOMAIN-SUFFIX,lobby-eu.klei.com
+
