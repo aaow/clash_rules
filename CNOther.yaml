@@ -19,11 +19,12 @@ payload:
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
   #直播
   - DOMAIN-SUFFIX,live.yj1211.work
+  - DST-PORT,8503
   #努努
   - DOMAIN-SUFFIX,nunuyy1.org
   - DOMAIN-SUFFIX,nunuyy2.org
   - DOMAIN-SUFFIX,nutv.live
-  - DOMAIN-SUFFIX,nunuyy.top
+  - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
-  - DOMAIN-SUFFIX,cokemv.me
-
+  - DOMAIN-KEYWORD,cokemv
+  - DOMAIN-KEYWORD,baobuzz
