@@ -1,4 +1,23 @@
 payload:
+  # Steam中国大陆地区游戏下载
+  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
+  - DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
+  - DOMAIN-SUFFIX,dl.steam.clngaa.com #金山云
+  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #网宿云
+  - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #腾讯云
+  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #阿里云
+# Origin游戏下载
+  - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
+  - DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
+# Battle.net战网中国大陆地区游戏下载
+  - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #华为云
+  - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #网宿云
+# Epic Games中国大陆地区游戏下载
+  - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+# Rockstar Launcher客户端更新/游戏更新/游戏下载
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+  
   - IP-CIDR,114.114.114.114/32,🎯 全球直连,no-resolve
   - IP-CIDR,114.114.115.115/32,🎯 全球直连,no-resolve
   - IP-CIDR,223.5.5.5/32,🎯 全球直连,no-resolve
@@ -23,8 +42,13 @@ payload:
   #努努
   - DOMAIN-SUFFIX,nunuyy1.org
   - DOMAIN-SUFFIX,nunuyy2.org
+  - DOMAIN-SUFFIX,nunuyy3.org
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
   - DOMAIN-KEYWORD,cokemv
   - DOMAIN-KEYWORD,baobuzz
+  - DOMAIN-SUFFIX,ternoa.dev
+  - DOMAIN-SUFFIX,aragon.network
+  - DOMAIN-SUFFIX,decoo.io
+  - DOMAIN-SUFFIX,blockfrost.dev
