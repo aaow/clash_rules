@@ -1,6 +1,11 @@
 payload:
+  - DOMAIN-KEYWORD,klei
   - DOMAIN-SUFFIX,klei.com
   - DOMAIN-SUFFIX,kleientertainment.com
   - DOMAIN-SUFFIX,items.kleientertainment.com
   - DOMAIN-SUFFIX,d2fr86khx60an2.cloudfront.net
   - DOMAIN-SUFFIX,klei.ca
+      # 荒野乱斗
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,brawlstarsgame.com
+  - DOMAIN-SUFFIX,brawlstars.com
