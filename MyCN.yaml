@@ -32,12 +32,6 @@ payload:
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
-  - DOMAIN-KEYWORD,cokemv
-  - DOMAIN-KEYWORD,baobuzz
-  - DOMAIN-SUFFIX,ternoa.dev
-  - DOMAIN-SUFFIX,aragon.network
-  - DOMAIN-SUFFIX,decoo.io
-  - DOMAIN-SUFFIX,blockfrost.dev
 
   ## s team
   - DOMAIN-SUFFIX,cm.steampowered.com
