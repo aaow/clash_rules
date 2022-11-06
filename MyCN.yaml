@@ -25,13 +25,16 @@ payload:
   #直播
   - DOMAIN-SUFFIX,live.yj1211.work
   - DST-PORT,8503
-  #努努
+  # 在线影院
   - DOMAIN-SUFFIX,nunuyy1.org
   - DOMAIN-SUFFIX,nunuyy2.org
   - DOMAIN-SUFFIX,nunuyy3.org
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
+  - DOMAIN-SUFFIX,duboku.io
+  - DOMAIN-SUFFIX,dianyingim.com
+  - DOMAIN-SUFFIX,czspp.com
 
   ## s team
   - DOMAIN-SUFFIX,cm.steampowered.com
