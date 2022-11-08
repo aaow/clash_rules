@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,epicgames.net
   - DOMAIN-SUFFIX,qos.multiplay.com
   - DOMAIN-SUFFIX,fallguys.oncatapult.com
-  # Steam非中国大陆地区游戏下载/社区实况直播
-  - DOMAIN-SUFFIX,steamcontent.com
   # Steam国际创意工坊下载CDN
   - DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net #CDN-Akamai
   # Battle.net战网非中国大陆地区游戏下载
@@ -28,8 +26,3 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN,store.steampowered.com
   - DOMAIN,api.steampowered.com
-  - DOMAIN,steamgames.com
-  - DOMAIN,steamusercontent.com
-  - DOMAIN,steamcontent.com
-  - DOMAIN,steamstatic.com
-  - DOMAIN,akamaihd.net

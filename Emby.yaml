@@ -4,15 +4,10 @@ payload:
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,misakaf.xyz
-  - DOMAIN-SUFFIX,lnj.ddns.net
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,sg.wangs.live
-  - DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  - DOMAIN-SUFFIX,agahk1.jmsooo.com
-  - DOMAIN-SUFFIX,agajp1.jmsooo.com
-  - DOMAIN-SUFFIX,agasg1.jmsooo.com
-  - DOMAIN-SUFFIX,aws.jmsooo.com
-  - DOMAIN-SUFFIX,cf1.jmsooo.com
+  - DOMAIN-SUFFIX,deja-vu.beauty
+  - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,cristiamo.xyz
   - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.cjpc.tv
