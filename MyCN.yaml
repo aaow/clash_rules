@@ -26,16 +26,59 @@ payload:
   - DOMAIN-SUFFIX,live.yj1211.work
   - DST-PORT,8503
   # 在线影院
-  - DOMAIN-SUFFIX,nunuyy1.org
-  - DOMAIN-SUFFIX,nunuyy2.org
-  - DOMAIN-SUFFIX,nunuyy3.org
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
   - DOMAIN-SUFFIX,duboku.io
   - DOMAIN-SUFFIX,dianyingim.com
   - DOMAIN-SUFFIX,czspp.com
-
+  - DOMAIN-SUFFIX,malleter.com
+  - DOMAIN-SUFFIX,shanshanku.com
+  - DOMAIN-SUFFIX,sd-play.com
+  - DOMAIN-SUFFIX,laodi.xyz
+  - DOMAIN-SUFFIX,iskcd.com
+  - DOMAIN-SUFFIX,bunediy.com
+  - DOMAIN-SUFFIX,v1kd.com
+  - DOMAIN-SUFFIX,fsvod1.com
+  - DOMAIN-SUFFIX,duosuanna.top
+  - DOMAIN-SUFFIX,y3600.cc
+  - DOMAIN-SUFFIX,y3600.cz
+  - DOMAIN-SUFFIX,y3600.cc
+  - DOMAIN-SUFFIX,y3600.com
+  - DOMAIN-SUFFIX,dianying.im
+  - DOMAIN-SUFFIX,renrenmi.cc
+  - DOMAIN-SUFFIX,72.rs
+  - DOMAIN-SUFFIX,quark.cn
+  - DOMAIN-SUFFIX,qqaku.com
+  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,yunhu111.cn
+  - DOMAIN-SUFFIX,bunediy.com
+  - DOMAIN-SUFFIX,hnmj.vip
+  - DOMAIN-SUFFIX,72.rs
+  - DOMAIN-SUFFIX,tkys.tv
+  - DOMAIN-SUFFIX,funsline.cn
+  - DOMAIN-SUFFIX,bdzybf7.com
+  - DOMAIN-SUFFIX,dyxs11.com
+  - DOMAIN-SUFFIX,789zy.cc
+  - DOMAIN-SUFFIX,qqaku.com
+  - DOMAIN-SUFFIX,bytegoofy.com
+  - DOMAIN-SUFFIX,tegouys.com
+  - DOMAIN-SUFFIX,kustomerapp.com
+  - DOMAIN-SUFFIX,api.kustomerapp.com
+  - DOMAIN-SUFFIX,kuaibocaiji.com
+  - DOMAIN-SUFFIX,kehlrx.cn
+  - DOMAIN-SUFFIX,banyung.vip
+  - DOMAIN-SUFFIX,fuju.tv
+  - DOMAIN-SUFFIX,czspp.com
+  - DOMAIN-SUFFIX,ddys.tv
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,qiniudn.com
+  - DOMAIN-SUFFIX,qinggongju.com
+  - DOMAIN-SUFFIX,dyxs20.com
+  - DOMAIN-SUFFIX,nextstar.cc
+  - DOMAIN-SUFFIX,klysw.cn
+  - DOMAIN-SUFFIX,gmtv1.xyz
+  - DOMAIN-SUFFIX,yanetflix.com
   ## s team
   - DOMAIN-SUFFIX,cm.steampowered.com
   # https://ipinfo.io/AS32590#block-ranges
