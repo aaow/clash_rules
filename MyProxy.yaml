@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,aaa.ax
+  - DOMAIN-SUFFIX,deja-vu.beauty
   # epic fallguys
   - DOMAIN-SUFFIX,cdn.gamefuel.info
   - DOMAIN-SUFFIX,epicgames.dev
