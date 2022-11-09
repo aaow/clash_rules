@@ -26,6 +26,11 @@ payload:
   - DOMAIN-SUFFIX,live.yj1211.work
   - DST-PORT,8503
   # 在线影院
+  - DOMAIN-SUFFIX,ax1x.com
+  - DOMAIN-SUFFIX,imgs.movie09.com
+  - DOMAIN-SUFFIX,z4a.net
+  - DOMAIN-SUFFIX,ceres9350.com
+  - DOMAIN-SUFFIX,huiye.icu
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-SUFFIX,kaiertv.com
