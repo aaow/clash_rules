@@ -40,40 +40,48 @@ payload:
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,xeton.dev
-  # Steamä¸­å›½å¤§é™†åœ°åŒºæ¸¸æˆä¸‹è½½
-  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #åä¸ºäº‘
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com #ç™½å±±äº‘
-  - DOMAIN-SUFFIX,dl.steam.clngaa.com #é‡‘å±±äº‘
-  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #ç½‘å®¿äº‘
+  # SteamÖĞ¹ú´óÂ½µØÇøÓÎÏ·ÏÂÔØ
+  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #»ªÎªÔÆ
+  - DOMAIN-SUFFIX,st.dl.eccdnx.com #°×É½ÔÆ
+  - DOMAIN-SUFFIX,dl.steam.clngaa.com #½ğÉ½ÔÆ
+  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #ÍøËŞÔÆ
   - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
-  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #è…¾è®¯äº‘
-  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #é˜¿é‡Œäº‘
-# Originæ¸¸æˆä¸‹è½½
+  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #ÌÚÑ¶ÔÆ
+  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #°¢ÀïÔÆ
+# OriginÓÎÏ·ÏÂÔØ
   - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
   - DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
-# Battle.netæˆ˜ç½‘ä¸­å›½å¤§é™†åœ°åŒºæ¸¸æˆä¸‹è½½
-  - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #åä¸ºäº‘
-  - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #ç½‘å®¿äº‘
-# Epic Gamesä¸­å›½å¤§é™†åœ°åŒºæ¸¸æˆä¸‹è½½
+# Battle.netÕ½ÍøÖĞ¹ú´óÂ½µØÇøÓÎÏ·ÏÂÔØ
+  - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #»ªÎªÔÆ
+  - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #ÍøËŞÔÆ
+# Epic GamesÖĞ¹ú´óÂ½µØÇøÓÎÏ·ÏÂÔØ
   - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
-# Rockstar Launcherå®¢æˆ·ç«¯æ›´æ–°/æ¸¸æˆæ›´æ–°/æ¸¸æˆä¸‹è½½
+# Rockstar Launcher¿Í»§¶Ë¸üĞÂ/ÓÎÏ·¸üĞÂ/ÓÎÏ·ÏÂÔØ
   - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
   
   - DOMAIN-SUFFIX,favicon.yandex.net
-  #å›¾åºŠ
+  #Í¼´²
   - DOMAIN-SUFFIX,imgtu.com
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
-  #ç›´æ’­
+  #Ö±²¥
   - DOMAIN-SUFFIX,live.yj1211.work
   - DST-PORT,8503
-  # åœ¨çº¿å½±é™¢
+  # ÔÚÏßÓ°Ôº
+  - DOMAIN-SUFFIX,enlienli.com
+  - DOMAIN-SUFFIX,liangzipic.com
+  - DOMAIN-SUFFIX,player.azx.me
+  - DOMAIN-SUFFIX,vip.lz-cdn2.com
+  - DOMAIN-SUFFIX,baobuzz.com
   - DOMAIN-SUFFIX,ax1x.com
   - DOMAIN-SUFFIX,imgs.movie09.com
   - DOMAIN-SUFFIX,z4a.net
   - DOMAIN-SUFFIX,ceres9350.com
   - DOMAIN-SUFFIX,huiye.icu
   - DOMAIN-SUFFIX,nutv.live
+  - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
+  - DOMAIN-KEYWORD,vip
+  - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-SUFFIX,kaiertv.com
   - DOMAIN-SUFFIX,duboku.io
   - DOMAIN-SUFFIX,dianyingim.com
@@ -125,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,klysw.cn
   - DOMAIN-SUFFIX,gmtv1.xyz
   - DOMAIN-SUFFIX,yanetflix.com
+
   ## s team
   - DOMAIN-SUFFIX,cm.steampowered.com
   # https://ipinfo.io/AS32590#block-ranges
