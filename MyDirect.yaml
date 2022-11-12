@@ -1,4 +1,15 @@
 payload:
+  - DOMAIN,live.yj1211.work
+  - DOMAIN-SUFFIX,qinlili.bid
+  - DOMAIN-SUFFIX,189.ly93.cc
+  - DOMAIN-SUFFIX,aihecong.com
+  - DOMAIN-SUFFIX,kinhdown.com
+  - DOMAIN-SUFFIX,kinh.cc
+  - DOMAIN-SUFFIX,bytecdntp.com
+  - DOMAIN-SUFFIX,ahc.ink
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,189.ly93.cc
+
     #Misty emby
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,plusmedia.site
@@ -36,10 +47,7 @@ payload:
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
-  - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,odysseyplus
-  - DOMAIN-KEYWORD,xeton.dev
+
   # Steam中国大陆地区游戏下载
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
   - DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
@@ -65,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
   #直播
   - DOMAIN-SUFFIX,live.yj1211.work
-  - DST-PORT,8503
   # 在线影院
   - DOMAIN-SUFFIX,enlienli.com
   - DOMAIN-SUFFIX,liangzipic.com
@@ -78,10 +85,7 @@ payload:
   - DOMAIN-SUFFIX,ceres9350.com
   - DOMAIN-SUFFIX,huiye.icu
   - DOMAIN-SUFFIX,nutv.live
-  - DOMAIN-KEYWORD,ecukwai
-  - DOMAIN-KEYWORD,nunuyy
-  - DOMAIN-KEYWORD,vip
-  - DOMAIN-KEYWORD,lz-cdn
+  - DOMAIN-SUFFIX,ecukwai.com
   - DOMAIN-SUFFIX,kaiertv.com
   - DOMAIN-SUFFIX,duboku.io
   - DOMAIN-SUFFIX,dianyingim.com
@@ -133,9 +137,17 @@ payload:
   - DOMAIN-SUFFIX,klysw.cn
   - DOMAIN-SUFFIX,gmtv1.xyz
   - DOMAIN-SUFFIX,yanetflix.com
-
-  ## s team
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-KEYWORD,ecukwai
+  - DOMAIN-KEYWORD,nunuyy
+  - DOMAIN-KEYWORD,vip
+  - DOMAIN-KEYWORD,lz-cdn
+  ## s team
+  - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,jmsooo
+  - DOMAIN-KEYWORD,odysseyplus
+  - DOMAIN-KEYWORD,xeton.dev
+  - DOMAIN-KEYWORD,kinh
   # https://ipinfo.io/AS32590#block-ranges
   - IP-CIDR,103.10.124.0/24,no-resolve
   - IP-CIDR,103.10.125.0/24,no-resolve
