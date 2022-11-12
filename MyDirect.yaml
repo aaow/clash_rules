@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,live.yj1211.work
   - DOMAIN-SUFFIX,qinlili.bid
   - DOMAIN-SUFFIX,189.ly93.cc
@@ -45,17 +46,17 @@ payload:
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
-  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #ª™Œ™‘∆
-  - DOMAIN-SUFFIX,st.dl.eccdnx.com #∞◊…Ω‘∆
-  - DOMAIN-SUFFIX,dl.steam.clngaa.com #Ω…Ω‘∆
-  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #Õ¯Àﬁ‘∆
+  - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #Âçé‰∏∫‰∫ë
+  - DOMAIN-SUFFIX,st.dl.eccdnx.com #ÁôΩÂ±±‰∫ë
+  - DOMAIN-SUFFIX,dl.steam.clngaa.com #ÈáëÂ±±‰∫ë
+  - DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com #ÁΩëÂÆø‰∫ë
   - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
-  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #Ã⁄—∂‘∆
-  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #∞¢¿Ô‘∆
+  - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #ËÖæËÆØ‰∫ë
+  - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #ÈòøÈáå‰∫ë
   - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
   - DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
-  - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #ª™Œ™‘∆
-  - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #Õ¯Àﬁ‘∆
+  - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #Âçé‰∏∫‰∫ë
+  - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #ÁΩëÂÆø‰∫ë
   - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
   - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
   - DOMAIN-SUFFIX,imgtu.com
@@ -133,3 +134,50 @@ payload:
   - DOMAIN-KEYWORD,odysseyplus
   - DOMAIN-KEYWORD,xeton.dev
   - DOMAIN-KEYWORD,kinh
+  - IP-CIDR,103.10.124.0/24,no-resolve
+  - IP-CIDR,103.10.125.0/24,no-resolve
+  - IP-CIDR,103.28.54.0/23,no-resolve
+  - IP-CIDR,103.28.54.0/24,no-resolve
+  - IP-CIDR,146.66.152.0/24,no-resolve
+  - IP-CIDR,146.66.155.0/24,no-resolve
+  - IP-CIDR,153.254.86.0/24,no-resolve
+  - IP-CIDR,155.133.224.0/23,no-resolve
+  - IP-CIDR,155.133.226.0/24,no-resolve
+  - IP-CIDR,155.133.227.0/24,no-resolve
+  - IP-CIDR,155.133.230.0/24,no-resolve
+  - IP-CIDR,155.133.232.0/24,no-resolve
+  - IP-CIDR,155.133.233.0/24,no-resolve
+  - IP-CIDR,155.133.234.0/24,no-resolve
+  - IP-CIDR,155.133.238.0/24,no-resolve
+  - IP-CIDR,155.133.239.0/24,no-resolve
+  - IP-CIDR,155.133.242.0/23,no-resolve
+  - IP-CIDR,155.133.245.0/24,no-resolve
+  - IP-CIDR,155.133.246.0/24,no-resolve
+  - IP-CIDR,155.133.248.0/24,no-resolve
+  - IP-CIDR,155.133.249.0/24,no-resolve
+  - IP-CIDR,155.133.250.0/24,no-resolve
+  - IP-CIDR,155.133.252.0/24,no-resolve
+  - IP-CIDR,155.133.253.0/24,no-resolve
+  - IP-CIDR,155.133.254.0/24,no-resolve
+  - IP-CIDR,155.133.255.0/24,no-resolve
+  - IP-CIDR,162.254.192.0/24,no-resolve
+  - IP-CIDR,162.254.193.0/24,no-resolve
+  - IP-CIDR,162.254.194.0/23,no-resolve
+  - IP-CIDR,162.254.195.0/24,no-resolve
+  - IP-CIDR,162.254.196.0/24,no-resolve
+  - IP-CIDR,162.254.197.0/24,no-resolve
+  - IP-CIDR,162.254.198.0/24,no-resolve
+  - IP-CIDR,162.254.199.0/24,no-resolve
+  - IP-CIDR,185.25.180.0/23,no-resolve
+  - IP-CIDR,185.25.182.0/24,no-resolve
+  - IP-CIDR,185.25.183.0/24,no-resolve
+  - IP-CIDR,190.217.33.0/24,no-resolve
+  - IP-CIDR,192.69.96.0/22,no-resolve
+  - IP-CIDR,205.185.194.0/24,no-resolve
+  - IP-CIDR,205.196.6.0/24,no-resolve
+  - IP-CIDR,208.64.200.0/24,no-resolve
+  - IP-CIDR,208.64.201.0/24,no-resolve
+  - IP-CIDR,208.64.202.0/24,no-resolve
+  - IP-CIDR,208.64.203.0/24,no-resolve
+  - IP-CIDR,208.78.164.0/22,no-resolve
+  - IP-CIDR,45.121.184.0/23,no-resolve
