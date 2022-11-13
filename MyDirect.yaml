@@ -1,4 +1,13 @@
 payload:
+  - DOMAIN-SUFFIX,ecombdapi.com
+  - DOMAIN-SUFFIX,cdtlas.com
+  - DOMAIN-SUFFIX,cjkypo.com
+  - DOMAIN-SUFFIX,thefilehosting.com
+  - DOMAIN-SUFFIX,jsonplayer.com
+  - DOMAIN-SUFFIX,wujinkk.com
+  - DOMAIN-SUFFIX,jqingdashi.xyz
+  - DOMAIN-SUFFIX,kwimgs.com
+  - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,live.yj1211.work
   - DOMAIN-SUFFIX,qinlili.bid
@@ -127,8 +136,6 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
-  - DOMAIN-KEYWORD,vip
-  - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
