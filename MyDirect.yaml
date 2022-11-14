@@ -1,4 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,vip.lz-cdn1.com
+  - DOMAIN-SUFFIX,loli.io
+  - DOMAIN-SUFFIX,py1080p.com
+  - DOMAIN-SUFFIX,szrtcpa.com
+  - DOMAIN-SUFFIX,daumcdn.net
   - DOMAIN-SUFFIX,ecombdapi.com
   - DOMAIN-SUFFIX,cdtlas.com
   - DOMAIN-SUFFIX,cjkypo.com
