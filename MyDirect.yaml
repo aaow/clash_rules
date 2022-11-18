@@ -1,5 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,vip.lz-cdn1.com
+  - DOMAIN-SUFFIX,lz-cdn1.com
+  - DOMAIN-SUFFIX,lz-cdn15.com
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,py1080p.com
   - DOMAIN-SUFFIX,szrtcpa.com
@@ -18,12 +19,9 @@ payload:
   - DOMAIN-SUFFIX,qinlili.bid
   - DOMAIN-SUFFIX,189.ly93.cc
   - DOMAIN-SUFFIX,aihecong.com
-  - DOMAIN-SUFFIX,kinhdown.com
-  - DOMAIN-SUFFIX,kinh.cc
   - DOMAIN-SUFFIX,bytecdntp.com
   - DOMAIN-SUFFIX,ahc.ink
   - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,189.ly93.cc
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,misakaf.xyz
@@ -78,7 +76,7 @@ payload:
   - DOMAIN-SUFFIX,enlienli.com
   - DOMAIN-SUFFIX,liangzipic.com
   - DOMAIN-SUFFIX,player.azx.me
-  - DOMAIN-SUFFIX,vip.lz-cdn2.com
+  - DOMAIN-SUFFIX,lz-cdn2.com
   - DOMAIN-SUFFIX,baobuzz.com
   - DOMAIN-SUFFIX,ax1x.com
   - DOMAIN-SUFFIX,imgs.movie09.com
@@ -102,7 +100,6 @@ payload:
   - DOMAIN-SUFFIX,duosuanna.top
   - DOMAIN-SUFFIX,y3600.cc
   - DOMAIN-SUFFIX,y3600.cz
-  - DOMAIN-SUFFIX,y3600.cc
   - DOMAIN-SUFFIX,y3600.com
   - DOMAIN-SUFFIX,dianying.im
   - DOMAIN-SUFFIX,renrenmi.cc
@@ -113,7 +110,6 @@ payload:
   - DOMAIN-SUFFIX,yunhu111.cn
   - DOMAIN-SUFFIX,bunediy.com
   - DOMAIN-SUFFIX,hnmj.vip
-  - DOMAIN-SUFFIX,72.rs
   - DOMAIN-SUFFIX,tkys.tv
   - DOMAIN-SUFFIX,funsline.cn
   - DOMAIN-SUFFIX,bdzybf7.com
@@ -141,11 +137,8 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
-  - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
-  - DOMAIN-KEYWORD,xeton.dev
-  - DOMAIN-KEYWORD,kinh
   - IP-CIDR,103.10.124.0/24,no-resolve
   - IP-CIDR,103.10.125.0/24,no-resolve
   - IP-CIDR,103.28.54.0/23,no-resolve

@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,kinhdown.com
+  - DOMAIN-SUFFIX,kinh.cc
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty
   # epic fallguys
