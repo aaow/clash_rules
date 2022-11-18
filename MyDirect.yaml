@@ -1,7 +1,5 @@
 payload:
   - DOMAIN-SUFFIX,kaiheila.cn
-  - DOMAIN-SUFFIX,lz-cdn1.com
-  - DOMAIN-SUFFIX,lz-cdn15.com
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,py1080p.com
   - DOMAIN-SUFFIX,szrtcpa.com
@@ -136,6 +134,7 @@ payload:
   - DOMAIN-SUFFIX,gmtv1.xyz
   - DOMAIN-SUFFIX,yanetflix.com
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-KEYWORD,jmsooo
