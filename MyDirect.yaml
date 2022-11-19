@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,kaiheila.cn
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,py1080p.com
@@ -75,7 +76,6 @@ payload:
   - DOMAIN-SUFFIX,enlienli.com
   - DOMAIN-SUFFIX,liangzipic.com
   - DOMAIN-SUFFIX,player.azx.me
-  - DOMAIN-SUFFIX,lz-cdn2.com
   - DOMAIN-SUFFIX,baobuzz.com
   - DOMAIN-SUFFIX,ax1x.com
   - DOMAIN-SUFFIX,imgs.movie09.com
