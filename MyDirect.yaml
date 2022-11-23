@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com #腾讯云
   - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com #阿里云
+  - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com #CDN-Level3
   - DOMAIN-SUFFIX,origin-a.akamaihd.net #CDN-Akamai
   - DOMAIN-SUFFIX,client05.pdl.wow.battlenet.com.cn #华为云
