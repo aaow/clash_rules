@@ -1,4 +1,5 @@
 payload:
+  - IP-CIDR,120.241.21.109/32
   - DOMAIN-SUFFIX,kl99.cc
   # apple更新
   - DOMAIN-SUFFIX,me.apple-dns.net
