@@ -1,4 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,wechatpay.com
+  - DOMAIN-SUFFIX,tenpay.com
+  - DOMAIN-SUFFIX,qpic.com
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,kaiheila.cn
   - DOMAIN-SUFFIX,loli.io
