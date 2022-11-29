@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,ksosoft.com
+  - DOMAIN-SUFFIX,lenovomm.com
+  - DOMAIN-SUFFIX,lenovo.com
+  - DOMAIN-SUFFIX,bj.new1cloud.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,weixin.com
   - DOMAIN-SUFFIX,wechatpay.com
