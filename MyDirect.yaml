@@ -40,8 +40,9 @@ payload:
   - DOMAIN-SUFFIX,sg.wangs.live
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,cristiamo.xyz
-  - DOMAIN-SUFFIX,loseremby.org   #垃圾影音
+  - DOMAIN-SUFFIX,11.loseremby.org   #垃圾影音
   - DOMAIN-SUFFIX,cf.emby.ml    #cf中转
+  - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,emby.cjpc.cc
   - DOMAIN-SUFFIX,emby.cjpc.tv
   - DOMAIN-SUFFIX,emby.cjpc.xyz
