@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,pollinations.ai
+  - DOMAIN-SUFFIX,lukso.dev
+  - DOMAIN-SUFFIX,crustapps.net
+  - DOMAIN-SUFFIX,ppio.cloud
   - DOMAIN-KEYWORD,ipfs
   - DOMAIN-SUFFIX,ipfs.4everland.xyz
   - DOMAIN-SUFFIX,w3s.link
