@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,ipfs.4everland.xyz
+  - DOMAIN-SUFFIX,w3s.link
+  - DOMAIN-SUFFIX,ipfs.w3s.link
+  - DOMAIN-SUFFIX,ipfs.filebase.io
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,lenovomm.com
