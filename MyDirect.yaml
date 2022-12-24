@@ -160,6 +160,7 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-KEYWORD,cn
   - DOMAIN-KEYWORD,lz-cdn
+  - DOMAIN-KEYWORD,lzcdn
   - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-KEYWORD,jmsooo
