@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,kinh.cc
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty
+  - DOMAIN-SUFFIX,misty.ltd
   # epic fallguys
   - DOMAIN-SUFFIX,cdn.gamefuel.info
   - DOMAIN-SUFFIX,epicgames.dev
