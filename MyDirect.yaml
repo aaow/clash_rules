@@ -1,4 +1,11 @@
 payload:
+  #论坛
+  - DOMAIN-SUFFIX,scboy.cc
+  - DOMAIN-SUFFIX,right.com.cn
+  - DOMAIN-SUFFIX,adtidy.org
+  #直播
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,live.yj1211.work
   - DOMAIN-SUFFIX,mayiapk.com
   - DOMAIN-SUFFIX,ggiptv.com
   - DOMAIN-SUFFIX,zoubuting.com
@@ -11,17 +18,11 @@ payload:
   - DOMAIN-SUFFIX,w3s.link
   - DOMAIN-SUFFIX,ipfs.w3s.link
   - DOMAIN-SUFFIX,ipfs.filebase.io
-  - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,lenovomm.com
   - DOMAIN-SUFFIX,lenovo.com
   - DOMAIN-SUFFIX,bj.new1cloud.com
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,weixin.com
-  - DOMAIN-SUFFIX,wechatpay.com
-  - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,qpic.com
-  - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,kaiheila.cn
   - DOMAIN-SUFFIX,loli.io
   - DOMAIN-SUFFIX,py1080p.com
@@ -35,9 +36,6 @@ payload:
   - DOMAIN-SUFFIX,wujinkk.com
   - DOMAIN-SUFFIX,jqingdashi.xyz
   - DOMAIN-SUFFIX,kwimgs.com
-  - DOMAIN-SUFFIX,adtidy.org
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,live.yj1211.work
   - DOMAIN-SUFFIX,qinlili.bid
   - DOMAIN-SUFFIX,189.ly93.cc
   - DOMAIN-SUFFIX,aihecong.com
@@ -46,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,plusmedia.site
+#emby
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.wtf
@@ -81,7 +80,7 @@ payload:
   - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,pornemby.club
-  - DOMAIN-SUFFIX,servers.xeton.dev
+  #steam
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com #steam
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
   - DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
@@ -159,10 +158,6 @@ payload:
   - DOMAIN-SUFFIX,gmtv1.xyz
   - DOMAIN-SUFFIX,yanetflix.com
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-KEYWORD,cn
-  - DOMAIN-KEYWORD,lz-cdn
-  - DOMAIN-KEYWORD,lzcdn
-  - DOMAIN-KEYWORD,ecukwai
   - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
