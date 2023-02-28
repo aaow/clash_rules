@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
   #steam
+  - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com #steam
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
   - DOMAIN-SUFFIX,st.dl.eccdnx.com #白山云
