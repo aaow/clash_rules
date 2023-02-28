@@ -1,8 +1,9 @@
 payload:
   #国内影视
-  - DOMAIN-SUFFIX,mxvod.com
-  - DOMAIN-KEYWORD,nunuyy
+  - DOMAIN-SUFFIX,nunuyingyuan.com
+  - DOMAIN-KEYWORD,nnyy
   - DOMAIN-SUFFIX,kaiertv.com
+  - DOMAIN-SUFFIX,youku.shanshanku.com
   #论坛
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
@@ -44,42 +45,16 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,xeton.dev
   - DOMAIN-SUFFIX,plusmedia.site
-#emby
+  # 图床
+  - DOMAIN-SUFFIX,imgtu.com
+  #emby
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,sg.wangs.live
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,cristiamo.xyz
-  - DOMAIN-SUFFIX,11.loseremby.org   #垃圾影音
-  - DOMAIN-SUFFIX,cf.emby.ml    #cf中转
-  - DOMAIN-SUFFIX,emby.cjpc.cc
-  - DOMAIN-SUFFIX,emby.cjpc.tv
-  - DOMAIN-SUFFIX,emby.cjpc.xyz
-  - DOMAIN-SUFFIX,emby.cristiamo.top
-  - DOMAIN-SUFFIX,emby.flowercloud.yt
-  - DOMAIN-SUFFIX,emby.immtel.com
-  - DOMAIN-SUFFIX,emby.maying.club
-  - DOMAIN-SUFFIX,emby.mcwy.me
-  - DOMAIN-SUFFIX,emby.mdss.cloud
-  - DOMAIN-SUFFIX,emby.neko.edu.rs
-  - DOMAIN-SUFFIX,emby.nexitally.com
-  - DOMAIN-SUFFIX,emby.nyancat.net
-  - DOMAIN-SUFFIX,emby.ok.edu.hk
-  - DOMAIN-SUFFIX,emby.paoche.ooo
-  - DOMAIN-SUFFIX,emby.prprcloud.com
-  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,11.loseremby.org   
+  - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,emby.ytoo.li
-  - DOMAIN-SUFFIX,embyserver.ga
-  - DOMAIN-SUFFIX,hinet.jmsooo.com
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  - DOMAIN-SUFFIX,line.emby.men
-  - DOMAIN-SUFFIX,mickeycloud.com
-  - DOMAIN-SUFFIX,movie.xeton.dev
-  - DOMAIN-SUFFIX,ntt1.jmsooo.com
-  - DOMAIN-SUFFIX,plusmedia.site
-  - DOMAIN-SUFFIX,pornemby.club
   #steam
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com #steam
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云
@@ -96,65 +71,7 @@ payload:
   - DOMAIN-SUFFIX,client02.pdl.wow.battlenet.com.cn #网宿云
   - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
   - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
-  - DOMAIN-SUFFIX,imgtu.com
-  - DOMAIN-SUFFIX,enlienli.com
-  - DOMAIN-SUFFIX,liangzipic.com
-  - DOMAIN-SUFFIX,player.azx.me
-  - DOMAIN-SUFFIX,baobuzz.com
-  - DOMAIN-SUFFIX,ax1x.com
-  - DOMAIN-SUFFIX,imgs.movie09.com
-  - DOMAIN-SUFFIX,z4a.net
-  - DOMAIN-SUFFIX,ceres9350.com
-  - DOMAIN-SUFFIX,huiye.icu
-  - DOMAIN-SUFFIX,nutv.live
-  - DOMAIN-SUFFIX,ecukwai.com
-  - DOMAIN-SUFFIX,dianyingim.com
-  - DOMAIN-SUFFIX,czspp.com
-  - DOMAIN-SUFFIX,malleter.com
-  - DOMAIN-SUFFIX,shanshanku.com
-  - DOMAIN-SUFFIX,sd-play.com
-  - DOMAIN-SUFFIX,laodi.xyz
-  - DOMAIN-SUFFIX,iskcd.com
-  - DOMAIN-SUFFIX,bunediy.com
-  - DOMAIN-SUFFIX,v1kd.com
-  - DOMAIN-SUFFIX,fsvod1.com
-  - DOMAIN-SUFFIX,duosuanna.top
-  - DOMAIN-SUFFIX,dianying.im
-  - DOMAIN-SUFFIX,renrenmi.cc
-  - DOMAIN-SUFFIX,72.rs
-  - DOMAIN-SUFFIX,quark.cn
-  - DOMAIN-SUFFIX,qqaku.com
-  - DOMAIN-SUFFIX,gtimg.com
-  - DOMAIN-SUFFIX,yunhu111.cn
-  - DOMAIN-SUFFIX,bunediy.com
-  - DOMAIN-SUFFIX,hnmj.vip
-  - DOMAIN-SUFFIX,tkys.tv
-  - DOMAIN-SUFFIX,funsline.cn
-  - DOMAIN-SUFFIX,bdzybf7.com
-  - DOMAIN-SUFFIX,dyxs11.com
-  - DOMAIN-SUFFIX,789zy.cc
-  - DOMAIN-SUFFIX,qqaku.com
-  - DOMAIN-SUFFIX,bytegoofy.com
-  - DOMAIN-SUFFIX,tegouys.com
-  - DOMAIN-SUFFIX,kustomerapp.com
-  - DOMAIN-SUFFIX,api.kustomerapp.com
-  - DOMAIN-SUFFIX,kuaibocaiji.com
-  - DOMAIN-SUFFIX,kehlrx.cn
-  - DOMAIN-SUFFIX,banyung.vip
-  - DOMAIN-SUFFIX,fuju.tv
-  - DOMAIN-SUFFIX,czspp.com
-  - DOMAIN-SUFFIX,ddys.tv
-  - DOMAIN-SUFFIX,ixigua.com
-  - DOMAIN-SUFFIX,qiniudn.com
-  - DOMAIN-SUFFIX,qinggongju.com
-  - DOMAIN-SUFFIX,dyxs20.com
-  - DOMAIN-SUFFIX,nextstar.cc
-  - DOMAIN-SUFFIX,klysw.cn
-  - DOMAIN-SUFFIX,gmtv1.xyz
-  - DOMAIN-SUFFIX,yanetflix.com
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,odysseyplus
   - IP-CIDR,103.10.124.0/24,no-resolve
   - IP-CIDR,103.10.125.0/24,no-resolve
   - IP-CIDR,103.28.54.0/23,no-resolve

@@ -1,8 +1,6 @@
 payload:
   #国外影视
-  - DOMAIN-SUFFIX,mcoun.com
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
-  - DOMAIN-SUFFIX,gaggle.fun       #yyy
   - DOMAIN-SUFFIX,betterttv.com    #twitch
   - DOMAIN-SUFFIX,kinhdown.com
   - DOMAIN-SUFFIX,kinh.cc
@@ -32,8 +30,10 @@ payload:
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,unrealengine.com
   # GOG非中国大陆游戏下载/客户端更新
+  - DOMAIN-SUFFIX,gaggle.fun     
   - DOMAIN-SUFFIX,cdn.gog.com
   - DOMAIN-SUFFIX,galaxy-client-update.gog.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN,store.steampowered.com
   - DOMAIN,api.steampowered.com
+ 
