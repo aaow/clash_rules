@@ -1,4 +1,8 @@
 payload:
+  #国内影视
+  - DOMAIN-SUFFIX,mxvod.com
+  - DOMAIN-KEYWORD,nunuyy
+  - DOMAIN-SUFFIX,kaiertv.com
   #论坛
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
@@ -13,11 +17,7 @@ payload:
   - DOMAIN-SUFFIX,lukso.dev
   - DOMAIN-SUFFIX,crustapps.net
   - DOMAIN-SUFFIX,ppio.cloud
-  - DOMAIN-KEYWORD,ipfs
-  - DOMAIN-SUFFIX,ipfs.4everland.xyz
   - DOMAIN-SUFFIX,w3s.link
-  - DOMAIN-SUFFIX,ipfs.w3s.link
-  - DOMAIN-SUFFIX,ipfs.filebase.io
   - DOMAIN-SUFFIX,ksosoft.com
   - DOMAIN-SUFFIX,lenovomm.com
   - DOMAIN-SUFFIX,lenovo.com
@@ -108,8 +108,6 @@ payload:
   - DOMAIN-SUFFIX,huiye.icu
   - DOMAIN-SUFFIX,nutv.live
   - DOMAIN-SUFFIX,ecukwai.com
-  - DOMAIN-SUFFIX,kaiertv.com
-  - DOMAIN-SUFFIX,duboku.io
   - DOMAIN-SUFFIX,dianyingim.com
   - DOMAIN-SUFFIX,czspp.com
   - DOMAIN-SUFFIX,malleter.com
@@ -121,9 +119,6 @@ payload:
   - DOMAIN-SUFFIX,v1kd.com
   - DOMAIN-SUFFIX,fsvod1.com
   - DOMAIN-SUFFIX,duosuanna.top
-  - DOMAIN-SUFFIX,y3600.cc
-  - DOMAIN-SUFFIX,y3600.cz
-  - DOMAIN-SUFFIX,y3600.com
   - DOMAIN-SUFFIX,dianying.im
   - DOMAIN-SUFFIX,renrenmi.cc
   - DOMAIN-SUFFIX,72.rs
@@ -158,7 +153,6 @@ payload:
   - DOMAIN-SUFFIX,gmtv1.xyz
   - DOMAIN-SUFFIX,yanetflix.com
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-KEYWORD,nunuyy
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - IP-CIDR,103.10.124.0/24,no-resolve

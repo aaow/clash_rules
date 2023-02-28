@@ -1,9 +1,12 @@
 payload:
+  #国外影视
+  - DOMAIN-SUFFIX,mcoun.com
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
-  - DOMAIN-SUFFIX,gaggle.fun    #yyy
+  - DOMAIN-SUFFIX,gaggle.fun       #yyy
   - DOMAIN-SUFFIX,betterttv.com    #twitch
   - DOMAIN-SUFFIX,kinhdown.com
   - DOMAIN-SUFFIX,kinh.cc
+  #国外emby
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty
   - DOMAIN-SUFFIX,misty.ltd
