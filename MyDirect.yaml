@@ -1,5 +1,8 @@
 payload:
   #国内影视
+  - DOMAIN-SUFFIX,vip.lz-cdn3.com
+  - DOMAIN-SUFFIX,h0.rzisytn.cn
+
   - DOMAIN-SUFFIX,nunuyingyuan.com
   - DOMAIN-KEYWORD,nnyy
   - DOMAIN-SUFFIX,kaiertv.com
