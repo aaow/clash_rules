@@ -1,5 +1,13 @@
 payload:
   #国外影视
+  - DOMAIN-SUFFIX,gimy.app
+  - DOMAIN-SUFFIX,static.olelive.com
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,vm.ktimg.com
+  - DOMAIN-SUFFIX,vip.lzcdn2.com
+  - DOMAIN-SUFFIX,cdn.efhie.com
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,ws.infinitynewtab.com
   - DOMAIN-SUFFIX,betterttv.com    #twitch
   - DOMAIN-SUFFIX,kinhdown.com
