@@ -1,5 +1,6 @@
 payload:
   #国外影视
+  - DOMAIN-SUFFIX,europe.olemovienews.com
   - DOMAIN-SUFFIX,gimy.app
   - DOMAIN-SUFFIX,static.olelive.com
   - DOMAIN-SUFFIX,olevod.com

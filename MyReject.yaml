@@ -1,7 +1,5 @@
 payload:
-  # 影视广告
-  - DOMAIN-SUFFIX,europe.olemovienews.com
-  
+
   - IP-CIDR,120.241.21.109/32
   - DOMAIN-SUFFIX,kl99.cc
   # apple更新
