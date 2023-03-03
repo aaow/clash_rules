@@ -1,9 +1,9 @@
 payload:
   #国内影视
+  - DOMAIN-SUFFIX,cjkypo.com
   - DOMAIN-SUFFIX,v.gsuus.com
   - DOMAIN-SUFFIX,g.xlzyd.com
   - DOMAIN-SUFFIX,c.baisiweiting.com
-  - DOMAIN-SUFFIX,m3u.haiwaikan.com
   - DOMAIN-SUFFIX,kan-xhzy.com
   - DOMAIN-SUFFIX,hnts.ymuuy.com
   - DOMAIN-SUFFIX,hnzy.bfvvs.com
@@ -40,7 +40,7 @@ payload:
   - DOMAIN-SUFFIX,daumcdn.net
   - DOMAIN-SUFFIX,ecombdapi.com
   - DOMAIN-SUFFIX,cdtlas.com
-  - DOMAIN-SUFFIX,cjkypo.com
+
   - DOMAIN-SUFFIX,thefilehosting.com
   - DOMAIN-SUFFIX,jsonplayer.com
   - DOMAIN-SUFFIX,wujinkk.com

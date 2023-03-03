@@ -1,5 +1,6 @@
 payload:
   #国外影视
+  - DOMAIN-SUFFIX,m3u.haiwaikan.com
   - DOMAIN-SUFFIX,v8.dious.cc
   - DOMAIN-SUFFIX,v.kudianv2.com
   - DOMAIN-SUFFIX,s8.fsvod1.com
