@@ -1,5 +1,7 @@
 payload:
   #国外影视
+  - DOMAIN-SUFFIX,cdn.ceres9350.com
+  - DOMAIN-SUFFIX,cdn.plyr.io
   - DOMAIN-SUFFIX,m3u.haiwaikan.com
   - DOMAIN-SUFFIX,v8.dious.cc
   - DOMAIN-SUFFIX,v.kudianv2.com
