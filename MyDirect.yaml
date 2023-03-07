@@ -1,4 +1,6 @@
 payload:
+  # 博客
+  - DOMAIN-SUFFIX,zzsin.com
   #国内影视
   - DOMAIN-SUFFIX,cjkypo.com
   - DOMAIN-SUFFIX,v.gsuus.com
@@ -40,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,daumcdn.net
   - DOMAIN-SUFFIX,ecombdapi.com
   - DOMAIN-SUFFIX,cdtlas.com
-
   - DOMAIN-SUFFIX,thefilehosting.com
   - DOMAIN-SUFFIX,jsonplayer.com
   - DOMAIN-SUFFIX,wujinkk.com
