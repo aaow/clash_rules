@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,szlong.weixin.qq.com
+  - DOMAIN-SUFFIX,longcloud.weixin.com
   # 博客
   - DOMAIN-SUFFIX,zzsin.com
   #国内影视
