@@ -9,8 +9,6 @@
 # PROCESS-NAME: 6
 # TOTAL: 479
 payload:
-  - DOMAIN-SUFFIX,push.apple.com
-  - DOMAIN-SUFFIX,init.itunes.apple.com
   - DOMAIN,api.smoot.apple.cn
   - DOMAIN,apple-events.akamaized.net
   - DOMAIN-SUFFIX,akadns.net
