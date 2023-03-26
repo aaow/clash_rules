@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,iqiyi.com
+  - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,open.kuaishouzt.com
   - IP-CIDR,120.241.21.109/32
   - DOMAIN-SUFFIX,kl99.cc
