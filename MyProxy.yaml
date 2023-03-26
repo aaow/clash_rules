@@ -1,27 +1,6 @@
-payload:
-  - DOMAIN-SUFFIX,11.loseremby.org  
+payload: 
   - DOMAIN-SUFFIX,feedly.com
   #国外影视
-  - DOMAIN-SUFFIX,v7.dious.cc
-  - DOMAIN-SUFFIX,cdn.ceres9350.com
-  - DOMAIN-SUFFIX,cdn.plyr.io
-  - DOMAIN-SUFFIX,m3u.haiwaikan.com
-  - DOMAIN-SUFFIX,v8.dious.cc
-  - DOMAIN-SUFFIX,v.kudianv2.com
-  - DOMAIN-SUFFIX,s8.fsvod1.com
-  - DOMAIN-SUFFIX,ukzy.ukubf4.com
-  - DOMAIN-SUFFIX,europe.olemovienews.com
-  - DOMAIN-SUFFIX,gimy.app
-  - DOMAIN-SUFFIX,static.olelive.com
-  - DOMAIN-SUFFIX,olevod.com
-  - DOMAIN-SUFFIX,vm.ktimg.com
-  - DOMAIN-SUFFIX,vip.lzcdn2.com
-  - DOMAIN-SUFFIX,cdn.efhie.com
-  - DOMAIN-SUFFIX,iole.tv
-  - DOMAIN-SUFFIX,ws.infinitynewtab.com
-  - DOMAIN-SUFFIX,betterttv.com    #twitch
-  - DOMAIN-SUFFIX,kinhdown.com
-  - DOMAIN-SUFFIX,kinh.cc
   #国外emby
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty
