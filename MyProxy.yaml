@@ -1,6 +1,5 @@
 payload: 
   - DOMAIN-SUFFIX,feedly.com
-  #国外影视
   #国外emby
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty

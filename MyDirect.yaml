@@ -1,23 +1,11 @@
 payload:
+  - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,developer.lanzoug.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
   - DOMAIN-SUFFIX,longcloud.weixin.com
   # 博客
   - DOMAIN-SUFFIX,zzsin.com
-  #国内影视
-  - DOMAIN-SUFFIX,cjkypo.com
-  - DOMAIN-SUFFIX,v.gsuus.com
-  - DOMAIN-SUFFIX,g.xlzyd.com
-  - DOMAIN-SUFFIX,c.baisiweiting.com
-  - DOMAIN-SUFFIX,kan-xhzy.com
-  - DOMAIN-SUFFIX,hnts.ymuuy.com
-  - DOMAIN-SUFFIX,hnzy.bfvvs.com
-  - DOMAIN-SUFFIX,vip.lz-cdn3.com
-  - DOMAIN-SUFFIX,h0.rzisytn.cn
-  - DOMAIN-SUFFIX,nunuyingyuan.com
-  - DOMAIN-KEYWORD,nnyy
-  - DOMAIN-SUFFIX,kaiertv.com
-  - DOMAIN-SUFFIX,youku.shanshanku.com
+
   #论坛
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
@@ -56,8 +44,7 @@ payload:
   - DOMAIN-SUFFIX,bytecdntp.com
   - DOMAIN-SUFFIX,ahc.ink
   - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,xeton.dev
-  - DOMAIN-SUFFIX,plusmedia.site
+
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
   #emby

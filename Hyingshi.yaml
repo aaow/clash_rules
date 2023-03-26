@@ -1,5 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,11.loseremby.org
+    #国外影视
+  - DOMAIN-SUFFIX,xeton.dev
+  - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,v7.dious.cc
   - DOMAIN-SUFFIX,cdn.ceres9350.com
   - DOMAIN-SUFFIX,cdn.plyr.io
