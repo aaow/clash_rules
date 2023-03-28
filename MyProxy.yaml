@@ -1,10 +1,15 @@
 payload: 
+  - DOMAIN-SUFFIX,kinh.cc
+  - DOMAIN-SUFFIX,kinhdown.com
   - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,betterttv.com    #twitch  
   - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,infinitynewtab.com
   #国外emby
   - DOMAIN-SUFFIX,aaa.ax
   - DOMAIN-SUFFIX,deja-vu.beauty
   - DOMAIN-SUFFIX,misty.ltd
+  - DOMAIN-SUFFIX,xeton.dev
   # epic fallguys
   - DOMAIN-SUFFIX,cdn.gamefuel.info
   - DOMAIN-SUFFIX,epicgames.dev

@@ -3,16 +3,16 @@ payload:
   - DOMAIN-SUFFIX,developer.lanzoug.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
   - DOMAIN-SUFFIX,longcloud.weixin.com
+
   # 博客
   - DOMAIN-SUFFIX,zzsin.com
-
   #论坛
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
   #直播
+  - DOMAIN-SUFFIX,live.yj1211.work 
   - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,live.yj1211.work
   - DOMAIN-SUFFIX,mayiapk.com
   - DOMAIN-SUFFIX,ggiptv.com
   - DOMAIN-SUFFIX,zoubuting.com
@@ -44,7 +44,6 @@ payload:
   - DOMAIN-SUFFIX,bytecdntp.com
   - DOMAIN-SUFFIX,ahc.ink
   - DOMAIN-SUFFIX,greasyfork.org
-
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
   #emby
