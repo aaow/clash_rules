@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,kinhdown.com
   - DOMAIN-SUFFIX,kinh.cc
     #国内影视
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,cjkypo.com
   - DOMAIN-SUFFIX,v.gsuus.com
   - DOMAIN-SUFFIX,g.xlzyd.com
