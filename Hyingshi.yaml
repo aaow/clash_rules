@@ -1,5 +1,8 @@
 payload:
     #国外影视
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  - DOMAIN-SUFFIX,neihanxinwen.com
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,v7.dious.cc
   - DOMAIN-SUFFIX,cdn.ceres9350.com
