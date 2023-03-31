@@ -1,4 +1,9 @@
 payload: 
+  # 代理
+  - DOMAIN-SUFFIX,sub.cm
+  - DOMAIN-SUFFIX,suo.yt
+  - DOMAIN-SUFFIX,api.dler.io
+  # other
   - DOMAIN-SUFFIX,moyu.im  #jiandan
   - DOMAIN-SUFFIX,kinh.cc
   - DOMAIN-SUFFIX,kinhdown.com
