@@ -6,11 +6,11 @@ payload:
 
   # 博客
   - DOMAIN-SUFFIX,zzsin.com
-  #论坛
+  # 论坛
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
-  #直播
+  # 直播
   - DOMAIN-SUFFIX,live.yj1211.work 
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,mayiapk.com
@@ -46,14 +46,14 @@ payload:
   - DOMAIN-SUFFIX,greasyfork.org
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
-  #emby
+  # emby
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.wtf 
   - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
-  #steam
+  # steam
   - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com #steam
   - DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com #华为云

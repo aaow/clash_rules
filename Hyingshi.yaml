@@ -1,5 +1,5 @@
 payload:
-    #国外影视
+  # 国外影视
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,neihanxinwen.com
@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,vip.lzcdn2.com
   - DOMAIN-SUFFIX,cdn.efhie.com
   - DOMAIN-SUFFIX,iole.tv
-    #国内影视
+  # 国内影视
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,cjkypo.com
