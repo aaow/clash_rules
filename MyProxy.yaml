@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,betterttv.com    #twitch  
   - DOMAIN-SUFFIX,feedly.com
-  - DOMAIN-SUFFIX,infinitynewtab.com
   # ChatGPT Site
   - DOMAIN-SUFFIX,chatbot.theb.ai
   - DOMAIN-SUFFIX,freegpt.one
