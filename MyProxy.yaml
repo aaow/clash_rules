@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,sub.cm
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,api.dler.io
+  - DOMAIN-SUFFIX,sublimehq.com
   # other
   - DOMAIN-SUFFIX,moyu.im  #jiandan
   - DOMAIN-SUFFIX,kinh.cc
