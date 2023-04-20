@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,api.dler.io
   - DOMAIN-SUFFIX,sublimehq.com
   # other
+  - DOMAIN-SUFFIX,kali.org
   - DOMAIN-SUFFIX,moyu.im  #jiandan
   - DOMAIN-SUFFIX,kinh.cc
   - DOMAIN-SUFFIX,kinhdown.com
