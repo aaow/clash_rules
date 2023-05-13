@@ -1,26 +1,25 @@
 payload:
   # 国内影视
-  - DOMAIN-SUFFIX,jtvnw.net
-  - DOMAIN-SUFFIX,dious.cc
-  - DOMAIN-SUFFIX,cjkypo.com
-  - DOMAIN-SUFFIX,v.gsuus.com
-  - DOMAIN-SUFFIX,g.xlzyd.com
-  - DOMAIN-SUFFIX,c.baisiweiting.com
-  - DOMAIN-SUFFIX,kan-xhzy.com
-  - DOMAIN-SUFFIX,hnts.ymuuy.com
-  - DOMAIN-SUFFIX,hnzy.bfvvs.com
-  - DOMAIN-SUFFIX,vip.lz-cdn3.com
-  - DOMAIN-SUFFIX,h0.rzisytn.cn
-  - DOMAIN-SUFFIX,nunuyingyuan.com
-  - DOMAIN-SUFFIX,kaiertv.com
-  - DOMAIN-SUFFIX,youku.shanshanku.com
-  - DOMAIN-KEYWORD,nnyy
+  # - DOMAIN-SUFFIX,jtvnw.net
+  # - DOMAIN-SUFFIX,dious.cc
+  # - DOMAIN-SUFFIX,cjkypo.com
+  # - DOMAIN-SUFFIX,v.gsuus.com
+  # - DOMAIN-SUFFIX,g.xlzyd.com
+  # - DOMAIN-SUFFIX,c.baisiweiting.com
+  # - DOMAIN-SUFFIX,kan-xhzy.com
+  # - DOMAIN-SUFFIX,hnts.ymuuy.com
+  # - DOMAIN-SUFFIX,hnzy.bfvvs.com
+  # - DOMAIN-SUFFIX,vip.lz-cdn3.com
+  # - DOMAIN-SUFFIX,h0.rzisytn.cn
+  # - DOMAIN-SUFFIX,nunuyingyuan.com
+  # - DOMAIN-SUFFIX,kaiertv.com
+  # - DOMAIN-SUFFIX,youku.shanshanku.com
+  # - DOMAIN-KEYWORD,nnyy
 
   # 解析
   - DOMAIN-SUFFIX,vip.lz-cdn6.com
   - DOMAIN-SUFFIX,developer.lanzoug.com
-  - DOMAIN-SUFFIX,longcloud.weixin.com
-  - DOMAIN-SUFFIX,szlong.weixin.qq.com
+
   # 博客
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,zzsin.com
@@ -28,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,longcloud.weixin.com
+  - DOMAIN-SUFFIX,szlong.weixin.qq.com
   # 直播
   - DOMAIN-SUFFIX,live.yj1211.work 
   - DOMAIN-SUFFIX,jsdelivr.net
