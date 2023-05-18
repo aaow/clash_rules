@@ -66,6 +66,7 @@ payload:
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
   # emby
+  - DOMAIN-SUFFIX,789.123456.al
   - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
@@ -73,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
+
   # steam
   - DOMAIN-SUFFIX,dota2.com.cn
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com #steam
