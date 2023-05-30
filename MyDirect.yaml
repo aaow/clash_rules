@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,zzsin.com
   # 论坛
+  - DOMAIN-SUFFIX,w3schools.com
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
