@@ -1,23 +1,23 @@
 payload: 
   # 国外影视
-  # - DOMAIN-SUFFIX,cloudflareinsights.com
-  # - DOMAIN-SUFFIX,neihanxinwen.com
-  # - DOMAIN-SUFFIX,plusmedia.site
-  # - DOMAIN-SUFFIX,v7.dious.cc
-  # - DOMAIN-SUFFIX,cdn.ceres9350.com
-  # - DOMAIN-SUFFIX,cdn.plyr.io
-  # - DOMAIN-SUFFIX,m3u.haiwaikan.com
-  # - DOMAIN-SUFFIX,v.kudianv2.com
-  # - DOMAIN-SUFFIX,s8.fsvod1.com
-  # - DOMAIN-SUFFIX,ukzy.ukubf4.com
-  # - DOMAIN-SUFFIX,europe.olemovienews.com
-  # - DOMAIN-SUFFIX,gimy.app
-  # - DOMAIN-SUFFIX,static.olelive.com
-  # - DOMAIN-SUFFIX,olevod.com
-  # - DOMAIN-SUFFIX,vm.ktimg.com
-  # - DOMAIN-SUFFIX,vip.lzcdn2.com
-  # - DOMAIN-SUFFIX,cdn.efhie.com
-  # - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,neihanxinwen.com
+  - DOMAIN-SUFFIX,plusmedia.site
+  - DOMAIN-SUFFIX,v7.dious.cc
+  - DOMAIN-SUFFIX,cdn.ceres9350.com
+  - DOMAIN-SUFFIX,cdn.plyr.io
+  - DOMAIN-SUFFIX,m3u.haiwaikan.com
+  - DOMAIN-SUFFIX,v.kudianv2.com
+  - DOMAIN-SUFFIX,s8.fsvod1.com
+  - DOMAIN-SUFFIX,ukzy.ukubf4.com
+  - DOMAIN-SUFFIX,europe.olemovienews.com
+  - DOMAIN-SUFFIX,gimy.app
+  - DOMAIN-SUFFIX,static.olelive.com
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,vm.ktimg.com
+  - DOMAIN-SUFFIX,vip.lzcdn2.com
+  - DOMAIN-SUFFIX,cdn.efhie.com
+  - DOMAIN-SUFFIX,iole.tv
   
   # 代理
   - DOMAIN-SUFFIX,sub.cm
