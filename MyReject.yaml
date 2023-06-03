@@ -5,14 +5,14 @@ payload:
   - IP-CIDR,120.241.21.109/32
   - DOMAIN-SUFFIX,kl99.cc
   # apple更新
-  - DOMAIN-SUFFIX,me.apple-dns.net
-  - DOMAIN-SUFFIX,gateway.icloud.com
-  - DOMAIN-SUFFIX,pancake.apple.com
-  - DOMAIN,mesu.apple.com
-  - DOMAIN,ocsp.apple.com
-  - DOMAIN-SUFFIX,aaplimg.com
-  - DOMAIN,gdmf.apple.com
-  - DOMAIN,map.qq.com
+  # - DOMAIN-SUFFIX,me.apple-dns.net
+  # - DOMAIN-SUFFIX,gateway.icloud.com
+  # - DOMAIN-SUFFIX,pancake.apple.com
+  # - DOMAIN,mesu.apple.com
+  # - DOMAIN,ocsp.apple.com
+  # - DOMAIN-SUFFIX,aaplimg.com
+  # - DOMAIN,gdmf.apple.com
+  # - DOMAIN,map.qq.com
   # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
   # 广告关键词
