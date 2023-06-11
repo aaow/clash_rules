@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,da.anythinktech.com
   - DOMAIN-SUFFIX,tk.anythinktech.com
   - DOMAIN-SUFFIX,googleads.g.doubleclick.net
