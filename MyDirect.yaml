@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,ios.bugly.qq.com
   - DOMAIN-SUFFIX,huatuo.qq.com
   # 国内影视
