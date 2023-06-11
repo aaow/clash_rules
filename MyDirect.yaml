@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,ios.bugly.qq.com
   - DOMAIN-SUFFIX,huatuo.qq.com
   # 国内影视
   - DOMAIN-SUFFIX,jtvnw.net
