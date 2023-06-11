@@ -1,11 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,tpstelemetry.tencent.com
-  - DOMAIN-SUFFIX,da.anythinktech.com
-  - DOMAIN-SUFFIX,tk.anythinktech.com
-  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
-  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
-  - DOMAIN-SUFFIX,ios.bugly.qq.com
-  - DOMAIN-SUFFIX,huatuo.qq.com
   # 国内影视
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,dious.cc
