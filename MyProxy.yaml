@@ -69,4 +69,7 @@ payload:
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN,store.steampowered.com
   - DOMAIN,api.steampowered.com
- 
+  # 荒野乱斗
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,brawlstarsgame.com
+  - DOMAIN-SUFFIX,brawlstars.com

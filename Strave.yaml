@@ -7,8 +7,5 @@ payload:
   - DOMAIN-SUFFIX,items.kleientertainment.com
   - DOMAIN-SUFFIX,d2fr86khx60an2.cloudfront.net
   - DOMAIN-SUFFIX,klei.ca
-
-  # 荒野乱斗
-  - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,brawlstarsgame.com
-  - DOMAIN-SUFFIX,brawlstars.com
+  - DST-PORT,10999/11000
+  - SRC-PORT,10999/11000
