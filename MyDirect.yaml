@@ -1,5 +1,6 @@
 payload:
   # 国内影视
+  - DOMAIN-SUFFIX,idouyinvod.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,dious.cc
   - DOMAIN-SUFFIX,cjkypo.com
