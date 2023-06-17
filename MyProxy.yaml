@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,vip.lzcdn2.com
   - DOMAIN-SUFFIX,cdn.efhie.com
   - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,emby.wtf
   
   # 代理
   - DOMAIN-SUFFIX,sub.cm

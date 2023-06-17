@@ -72,7 +72,7 @@ payload:
   - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,emby.wtf 
+  # - DOMAIN-SUFFIX,emby.wtf 
   - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
