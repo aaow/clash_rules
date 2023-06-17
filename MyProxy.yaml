@@ -28,8 +28,6 @@ payload:
   # other
   - DOMAIN-SUFFIX,kali.org
   - DOMAIN-SUFFIX,moyu.im  #jiandan
-  - DOMAIN-SUFFIX,kinh.cc
-  - DOMAIN-SUFFIX,kinhdown.com
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,betterttv.com    #twitch  
   - DOMAIN-SUFFIX,feedly.com
