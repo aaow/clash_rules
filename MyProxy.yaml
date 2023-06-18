@@ -18,8 +18,6 @@ payload:
   - DOMAIN-SUFFIX,vip.lzcdn2.com
   - DOMAIN-SUFFIX,cdn.efhie.com
   - DOMAIN-SUFFIX,iole.tv
-  - DOMAIN-SUFFIX,emby.wtf
-  
   # 代理
   - DOMAIN-SUFFIX,sub.cm
   - DOMAIN-SUFFIX,suo.yt
@@ -28,9 +26,8 @@ payload:
   # other
   - DOMAIN-SUFFIX,kali.org
   - DOMAIN-SUFFIX,moyu.im  #jiandan
-  - DOMAIN-SUFFIX,twitch.tv
-  - DOMAIN-SUFFIX,betterttv.com    #twitch  
   - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,stackoverflow.com
   # ChatGPT Site
   - DOMAIN-SUFFIX,chatbot.theb.ai
   - DOMAIN-SUFFIX,freegpt.one
@@ -39,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,deja-vu.beauty
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,xeton.dev
+  - DOMAIN-SUFFIX,emby.wtf
   # epic fallguys
   - DOMAIN-SUFFIX,cdn.gamefuel.info
   - DOMAIN-SUFFIX,epicgames.dev

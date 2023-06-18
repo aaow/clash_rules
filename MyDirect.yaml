@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,scboy.cc
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
+  # 其他
   - DOMAIN-SUFFIX,longcloud.weixin.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
   # 直播
