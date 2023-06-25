@@ -69,6 +69,7 @@ payload:
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
   # emby
+  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,789.123456.al
   - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
