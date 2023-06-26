@@ -18,6 +18,7 @@ payload:
   - DOMAIN-KEYWORD,nnyy
 
   # 解析
+  - DOMAIN-SUFFIX,czzy.pro
   - DOMAIN-SUFFIX,vip.lz-cdn6.com
   - DOMAIN-SUFFIX,developer.lanzoug.com
 
@@ -30,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
   # 其他
+  - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,longcloud.weixin.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
   # 直播
@@ -74,7 +76,6 @@ payload:
   - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
-  # - DOMAIN-SUFFIX,emby.wtf 
   - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
