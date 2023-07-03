@@ -37,7 +37,6 @@ payload:
   - DOMAIN-SUFFIX,deja-vu.beauty
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,xeton.dev
-  - DOMAIN-SUFFIX,emby.wtf
   # epic fallguys
   - DOMAIN-SUFFIX,cdn.gamefuel.info
   - DOMAIN-SUFFIX,epicgames.dev

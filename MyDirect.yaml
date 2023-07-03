@@ -1,5 +1,6 @@
 payload:
   # 国内影视
+  - DOMAIN-SUFFIX,huoshanvod.com
   - DOMAIN-SUFFIX,idouyinvod.com
   - DOMAIN-SUFFIX,jtvnw.net
   - DOMAIN-SUFFIX,dious.cc
@@ -18,6 +19,7 @@ payload:
   - DOMAIN-KEYWORD,nnyy
 
   # 解析
+  - DOMAIN-SUFFIX,czzy.pro
   - DOMAIN-SUFFIX,vip.lz-cdn6.com
   - DOMAIN-SUFFIX,developer.lanzoug.com
 
@@ -30,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
   # 其他
+  - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,longcloud.weixin.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
   - DOMAIN-SUFFIX,favicon.yandex.net
@@ -70,11 +73,11 @@ payload:
   # 图床
   - DOMAIN-SUFFIX,imgtu.com
   # emby
+  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,789.123456.al
   - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
-  # - DOMAIN-SUFFIX,emby.wtf 
   - DOMAIN-SUFFIX,cf.emby.ml
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
