@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,moyu.im  #jiandan
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,redditstatic.com
   # ChatGPT Site
   - DOMAIN-SUFFIX,chatbot.theb.ai
   - DOMAIN-SUFFIX,freegpt.one
