@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,right.com.cn
   - DOMAIN-SUFFIX,adtidy.org
   # 其他
+  - DOMAIN-SUFFIX,aliyundrive.net
   - DOMAIN-SUFFIX,ghproxy.net
   - DOMAIN-SUFFIX,longcloud.weixin.com
   - DOMAIN-SUFFIX,szlong.weixin.qq.com
@@ -77,7 +78,6 @@ payload:
   # emby
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,789.123456.al
-  - DOMAIN-SUFFIX,11.loseremby.org
   - DOMAIN-SUFFIX,misakaf.xyz
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,cf.emby.ml
