@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,sublimehq.com
   - DOMAIN-SUFFIX,getfree.cloud
   # other
+  - DOMAIN-SUFFIX,sublimetext.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,redditmedia.com
   - DOMAIN-SUFFIX,quoracdn.com
