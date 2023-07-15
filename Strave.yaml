@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,items.kleientertainment.com
   - DOMAIN-SUFFIX,d2fr86khx60an2.cloudfront.net
   - DOMAIN-SUFFIX,klei.ca
-  - DST-PORT,10999/11000
-  - SRC-PORT,10999/11000
+  - DST-PORT,10999
+  - DST-PORT,11000
+  - SRC-PORT,10999
+  - SRC-PORT,11000
 
