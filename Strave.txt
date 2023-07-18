@@ -1,0 +1,9 @@
+payload:
+  - 'lobby-v2-cdn.klei.com'
+  - 'klei.com'
+  - 'motd.klei.com'
+  - 'dst.metrics.klei.com'
+  - 'kleientertainment.com'
+  - 'items.kleientertainment.com'
+  - 'd2fr86khx60an2.cloudfront.net'
+  - 'klei.ca'
