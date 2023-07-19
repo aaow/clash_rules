@@ -29,6 +29,7 @@ payload:
   - 'right.com.cn'
   - 'adtidy.org'
   # 其他
+  - 'cn.bing.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'
   - 'longcloud.weixin.com'
