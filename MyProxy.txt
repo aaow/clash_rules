@@ -45,6 +45,7 @@ payload:
   - 'deja-vu.beauty'
   - 'misty.ltd'
   - 'xeton.dev'
+  - 'pilipili-cf.emby77.org'
   # epic fallguys
   - 'cdn.gamefuel.info'
   - 'epicgames.dev'
