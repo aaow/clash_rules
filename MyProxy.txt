@@ -25,7 +25,6 @@ payload:
   - 'sublimehq.com'
   - 'getfree.cloud'
   # other
-  - 'afreecatv.com'
   - 'sublimetext.com'
   - 'redd.it'
   - 'redditmedia.com'
