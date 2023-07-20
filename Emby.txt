@@ -3,8 +3,3 @@ payload:
   - '11.loseremby.org'
   - 'emby.wtf'
   - '789.123456.al'
-  #11公服
-  - 'kr.xmsl.org' 
-  - '1.loseremby.org' 
-  - 'de.xmsl.org' 
-  - 'nl.xmsl.org' 

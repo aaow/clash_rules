@@ -78,6 +78,10 @@ payload:
   - 'misakaf.org'
   - 'emby.xeton.dev'
   - 'jellyfin.xeton.dev'
+  #11公服
+  - 'kr.xmsl.org' 
+  - '1.loseremby.org' 
+  - 'nl.xmsl.org' 
   # steam
   - 'dota2.com.cn'
   - 'xz.pphimalayanrt.com' #steam
