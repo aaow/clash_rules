@@ -16,9 +16,9 @@ payload:
   - 'nunuyingyuan.com'
   - 'kaiertv.com'
   - 'youku.shanshanku.com'
+  - 'vip.lz-cdn6.com'
   # 解析
   - 'czzy.pro'
-  - 'vip.lz-cdn6.com'
   - 'developer.lanzoug.com'
   # 博客
   - 'infinitynewtab.com'
@@ -29,11 +29,13 @@ payload:
   - 'right.com.cn'
   - 'adtidy.org'
   # 其他
+  - '.cn.bing.net'
+  - '.cn.mm.bing.net'
   - 'cn.bing.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'
-  - 'longcloud.weixin.com'
-  - 'szlong.weixin.qq.com'
+#  - 'longcloud.weixin.com'
+#  - 'szlong.weixin.qq.com'
   - 'favicon.yandex.net'
   - 'luobo.cn'
   - '737.com'
