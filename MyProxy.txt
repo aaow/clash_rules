@@ -10,6 +10,7 @@ payload:
   - 'getfree.cloud'
   # other
   - 'openwrt.org'
+  - 'forum.openwrt.org'
   - 'sublimetext.com'
   - 'cloudflare.com'
   - 'v2ex.com'

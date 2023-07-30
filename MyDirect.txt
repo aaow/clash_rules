@@ -1,22 +1,5 @@
 payload:
   # 国内影视
-  - 'huoshanvod.com'
-  - 'idouyinvod.com'
-  - 'jtvnw.net'
-  - 'dious.cc'
-  - 'cjkypo.com'
-  - 'v.gsuus.com'
-  - 'g.xlzyd.com'
-  - 'c.baisiweiting.com'
-  - 'kan-xhzy.com'
-  - 'hnts.ymuuy.com'
-  - 'hnzy.bfvvs.com'
-  - 'vip.lz-cdn3.com'
-  - 'h0.rzisytn.cn'
-  - 'nunuyingyuan.com'
-  - 'kaiertv.com'
-  - 'youku.shanshanku.com'
-  - 'vip.lz-cdn6.com'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
