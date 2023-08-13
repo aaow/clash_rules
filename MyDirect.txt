@@ -1,6 +1,7 @@
 payload:
   # 国内影视
   # 解析
+  - '+.shabijichang.com'
   - 'czzy.pro'
   - 'developer.lanzoug.com'
   # 博客
@@ -12,8 +13,8 @@ payload:
   - 'right.com.cn'
   - 'adtidy.org'
   # 其他
-  - '.cn.bing.net'
-  - '.cn.mm.bing.net'
+  - '*.cn.bing.net'
+  - '*.cn.mm.bing.net'
   - 'cn.bing.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'

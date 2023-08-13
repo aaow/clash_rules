@@ -1,7 +1,7 @@
 payload: 
   # 国外影视
-  - '.akamaized.net'
-  - '.bilibili.tv'
+  - '*.akamaized.net'
+  - '*.bilibili.tv'
   # 代理
   - 'sub.cm'
   - 'suo.yt'
@@ -62,4 +62,3 @@ payload:
   - 'supercell.com'
   - 'brawlstarsgame.com'
   - 'brawlstars.com'
-'
