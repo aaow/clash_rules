@@ -1,7 +1,7 @@
 payload:
   # 国内影视
   # 解析
-  - '+.shabijichang.com'
+  - 'fd.shabijichang.com'
   - 'czzy.pro'
   - 'developer.lanzoug.com'
   # 博客
