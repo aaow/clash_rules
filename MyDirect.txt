@@ -1,6 +1,8 @@
 payload:
   # 国内影视
   # 解析
+  - 'nnvod.com'
+  - '*.ceres9350.com'
   - 'czzy.pro'
   - 'developer.lanzoug.com'
   # 博客
