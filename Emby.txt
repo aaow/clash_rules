@@ -3,3 +3,4 @@ payload:
   - '11.loseremby.org'
   - 'emby.wtf'
   - '789.123456.al'
+  - 'free.emby.eu.org'	
