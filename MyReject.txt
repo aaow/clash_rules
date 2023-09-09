@@ -15,3 +15,4 @@ payload:
   - 'aaplimg.com'
   - 'gdmf.apple.com'
   - 'map.qq.com'
+  - 'blog.csdn.net'
