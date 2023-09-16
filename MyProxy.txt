@@ -9,6 +9,7 @@ payload:
   - 'sublimehq.com'
   - 'getfree.cloud'
   # other
+  - 'greasyfork.org'
   - 'github.githubassets.com'
   - 'openwrt.org'
   - 'forum.openwrt.org'
