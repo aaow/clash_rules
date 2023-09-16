@@ -29,7 +29,6 @@ payload:
   - 'lenovomm.com'
   - 'lenovo.com'
   - '189.ly93.cc'
-  - 'greasyfork.org'
   # 图床
   - 'imgtu.com'
   # emby
