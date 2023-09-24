@@ -1,14 +1,14 @@
 payload:
   - 'boylove3.cc'
   - 'boylove.cc'
-  - 'gateway.icloud.com.cn'
   - 'beacons5.gvt3.com'
   - 'kuaishouzt.com'
   - 'webrtcpunch.video.qq.com'
   - 'cibntv.net'
   # apple更新
   - 'me.apple-dns.net'
-  - 'gateway.icloud.com'
+#  - 'gateway.icloud.com'
+#  - 'gateway.icloud.com.cn'
   - 'pancake.apple.com'
   - 'mesu.apple.com'
   - 'ocsp.apple.com'
