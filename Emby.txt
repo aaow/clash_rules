@@ -4,3 +4,4 @@ payload:
   - 'emby.wtf'
   - '789.123456.al'
   - 'free.emby.eu.org'	
+  - 'kakoemby.xyz'
