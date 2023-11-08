@@ -39,7 +39,6 @@ payload:
   #11公服
   - 'kr.xmsl.org' 
   - '1.loseremby.org' 
-  - 'nl.xmsl.org' 
   # steam
   - 'dota2.com.cn'
   - 'xz.pphimalayanrt.com'
