@@ -25,6 +25,7 @@ payload:
   - 'chatbot.theb.ai'
   - 'freegpt.one'
   # 国外emby
+  - 'line.xmsl.org'
   - 'aaa.ax'
   - 'singularity.deja-vu.beauty'
   - 'misty.ltd'

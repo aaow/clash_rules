@@ -1,5 +1,6 @@
 payload:
-  # 国内影视
+  # 国内emby
+  - 'pm.xmsl.org'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
@@ -31,11 +32,6 @@ payload:
   - '189.ly93.cc'
   # 图床
   - 'imgtu.com'
-  # emby
-  - 'misakaf.xyz'
-  - 'misakaf.org'
-  - 'emby.xeton.dev'
-  - 'jellyfin.xeton.dev'
   # steam
   - 'dota2.com.cn'
   - 'xz.pphimalayanrt.com'
