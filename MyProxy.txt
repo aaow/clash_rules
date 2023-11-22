@@ -1,4 +1,7 @@
 payload: 
+  # google
+  - 'gstatic.com'
+  - 'fonts.gstatic.com'
   # 国外影视
   - '*.akamaized.net'
   - '*.bilibili.tv'
