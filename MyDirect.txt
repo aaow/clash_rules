@@ -1,4 +1,7 @@
 payload:
+  # google
+  - 'gstatic.com'
+  - 'fonts.gstatic.com'
   # 机场
   - 'engage.cloudflareclient.com'
   - 'go.jikuai.xyz'
