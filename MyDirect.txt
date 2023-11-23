@@ -1,5 +1,6 @@
 payload:
   # 机场
+  - 'ddys.yunjisuan.cf'
   - 'engage.cloudflareclient.com'
   - 'go.jikuai.xyz'
   - 'go.jikuai.xyz'
