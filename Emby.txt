@@ -5,5 +5,5 @@ payload:
   - '789.123456.al'
   - 'free.emby.eu.org'	
   - 'kakoemby.xyz'
-  - 'pilipiliultra.top'
-  - 'pilipiliultra.com'
+  - 'emby.pilipiliultra.top'
+  - 'push.pilipiliultra.com'
