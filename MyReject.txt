@@ -1,5 +1,5 @@
 payload:
-  - '120.92.65.244/32'
+  - 'ipconfig.co'
   - 'boylove3.cc'
   - 'boylove.cc'
   - 'beacons5.gvt3.com'
