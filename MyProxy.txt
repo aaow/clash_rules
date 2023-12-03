@@ -7,6 +7,8 @@ payload:
   - '*.akamaized.net'
   - '*.bilibili.tv'
   # 代理
+  - 'getinfo.bigwatermelon.org'
+  - 'zero.76898102.xyz'
   - 'sub.cm'
   - 'suo.yt'
   - 'api.dler.io'
