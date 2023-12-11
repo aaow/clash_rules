@@ -31,9 +31,6 @@ payload:
   - 'right.com.cn'
   - 'adtidy.org'
   # 其他
-  - '*.cn.bing.net'
-  - '*.cn.mm.bing.net'
-  - 'cn.bing.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'
   - 'favicon.yandex.net'
