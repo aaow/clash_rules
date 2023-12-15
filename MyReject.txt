@@ -1,5 +1,5 @@
 payload:
-  - '*.xmsl.org'
+  - 'line.xmsl.org'
   - 'ipconfig.co'
   - 'boylove3.cc'
   - 'boylove.cc'
