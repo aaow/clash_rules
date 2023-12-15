@@ -30,13 +30,6 @@ payload:
   # ChatGPT Site
   - 'chatbot.theb.ai'
   - 'freegpt.one'
-  # 国外emby
-  - 'line.xmsl.org'
-  - 'aaa.ax'
-  - 'singularity.deja-vu.beauty'
-  - 'misty.ltd'
-  - 'xeton.dev'
-  - 'pilipili.emby77.org'
   # epic fallguys
   - 'cdn.gamefuel.info'
   - 'epicgames.dev'

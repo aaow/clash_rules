@@ -7,3 +7,9 @@ payload:
   - 'kakoemby.xyz'
   - 'emby.pilipiliultra.top'
   - 'push.pilipiliultra.com'
+  # 国外emby
+  - 'aaa.ax'
+  - 'singularity.deja-vu.beauty'
+  - 'misty.ltd'
+  - 'xeton.dev'
+  - 'pilipili.emby77.org'
