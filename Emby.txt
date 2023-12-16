@@ -1,4 +1,5 @@
 payload:
+  - 'cfhd.xmsl.org'
   - 'free.xmsl.org'
   - '11.loseremby.org'
   - 'emby.wtf'
