@@ -1,5 +1,6 @@
 payload:
   - 'line.xmsl.org'
+  - 'vip.kuaikan-cdn4.com'
   - 'cdn.kin6c1.com'
   - 'cdn.v82u1l.com'
   - 'proxy-tf-all-ws.bilivideo.com'
