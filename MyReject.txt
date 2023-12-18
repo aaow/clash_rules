@@ -1,5 +1,12 @@
 payload:
-  - 'line.xmsl.org'
+  - 'cdn19.vip-vip-yzzy.com'
+  - 'vod2.kczybf.com'
+  - 'v9.dious.cc'
+  - 'vip.ffzy-online6.com'
+#  - 'v.cdnlz2.com'
+  - 's5.bfbfvip.com'
+  - 'v10.dious.cc'
+  - 's9.fsvod1.com'
   - 'ipconfig.co'
   - 'boylove3.cc'
   - 'boylove.cc'
