@@ -17,8 +17,6 @@ payload:
   - 'go.jikuai.xyz'
   - 'fr-01.jikuai.xyz'
   - 'go.jikuai.xyz'
-  # 国内emby
-  - 'pm.xmsl.org'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
