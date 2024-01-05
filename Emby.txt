@@ -1,6 +1,5 @@
 payload:
   # 国内emby
-  - 'pm.xmsl.org'
   - 'cf.xmsl.org'
   - 'line.xmsl.org'
   - 'cfhd.xmsl.org'
