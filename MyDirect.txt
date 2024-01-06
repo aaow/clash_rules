@@ -1,7 +1,4 @@
 payload:
-  # 国内emby
-  - 'oraclekr.xmsl.org'
-  - 'pm.xmsl.org'
   # 机场
   - 'ddys.yunjisuan.cf'
   - 'engage.cloudflareclient.com'
