@@ -63,3 +63,4 @@ payload:
   - 'supercell.com'
   - 'brawlstarsgame.com'
   - 'brawlstars.com'
+  - 'dota2.com'
