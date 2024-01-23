@@ -1,4 +1,9 @@
 payload:
+  # 国内emby
+  - 'cf.xmsl.org'
+  - 'line.xmsl.org'
+  - 'cfhd.xmsl.org'
+  - 'free.xmsl.org'
   # 机场
   - 'ddys.yunjisuan.cf'
   - 'engage.cloudflareclient.com'

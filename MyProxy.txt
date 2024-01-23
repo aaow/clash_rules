@@ -1,4 +1,7 @@
 payload: 
+  # e
+  - 'oraclekr.xmsl.org'
+  - 'pm.xmsl.org'
   # google
   - 'www.gstatic.com'
   - 'fonts.gstatic.com'
