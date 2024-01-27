@@ -1,27 +1,6 @@
 payload:
-  # 国内emby
-  - 'cf.xmsl.org'
   - 'line.xmsl.org'
-  - 'cfhd.xmsl.org'
-  - 'free.xmsl.org'
-  # 机场
-  - 'ddys.yunjisuan.cf'
-  - 'engage.cloudflareclient.com'
-  - 'go.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'us-01.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'us-02.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'us-03.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'us-04.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'au-01.jikuai.xyz'
-  - 'go.jikuai.xyz'
-  - 'fr-01.jikuai.xyz'
-  - 'go.jikuai.xyz'
+  - 'pm.xmsl.org'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
