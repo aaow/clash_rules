@@ -1,6 +1,7 @@
 payload:
   - 'line.xmsl.org'
   - 'pm.xmsl.org'
+  - 'nl.xmsl.org'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
