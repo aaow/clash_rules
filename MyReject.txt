@@ -1,10 +1,4 @@
 payload:
-  # 国内emby
-  - 'cf.xmsl.org'
-  - 'line.xmsl.org'
-  - 'cfhd.xmsl.org'
-  - 'free.xmsl.org'
-  # e
   - 'oraclekr.xmsl.org'
   - 'pm.xmsl.org'
   - 'c3.ihdslb.com'
