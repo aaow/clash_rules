@@ -1,5 +1,5 @@
 payload:
-  - 'line.xmsl.org'
+  - 'free.xmsl.org'
   - 'pm.xmsl.org'
   - 'nl.xmsl.org'
   # 解析

@@ -1,7 +1,7 @@
 payload:
   - 'cfhd.xmsl.org'
   - 'cf.xmsl.org'
-  - 'free.xmsl.org'
+  - 'line.xmsl.org'
   - '11.loseremby.org'
   - 'emby.wtf'
   - '789.123456.al'
