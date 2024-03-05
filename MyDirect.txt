@@ -1,5 +1,6 @@
 payload:
-  - 'loseremby.org'
+  - 'tw.loseremby.org'
+  - 'krde.loseremby.org'
   - 'free.xmsl.org'
   - 'pm.xmsl.org'
   - 'nl.xmsl.org'
