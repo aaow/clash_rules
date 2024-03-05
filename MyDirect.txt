@@ -1,8 +1,9 @@
 payload:
-  # - 'free.xmsl.org'
-  # - 'pm.xmsl.org'
-  # - 'nl.xmsl.org'
-  # - 'hd.xmsl.org'
+  - 'tw.loseremby.org'
+  - 'free.xmsl.org'
+  - 'pm.xmsl.org'
+  - 'nl.xmsl.org'
+  - 'hd.xmsl.org'
   # 解析
   - 'czzy.pro'
   - 'developer.lanzoug.com'
