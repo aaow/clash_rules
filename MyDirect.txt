@@ -1,5 +1,5 @@
 payload:
-  - 'tw.loseremby.org'
+  - 'loseremby.org'
   - 'free.xmsl.org'
   - 'pm.xmsl.org'
   - 'nl.xmsl.org'
