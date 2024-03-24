@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  	"rules": [
+    	{
+    		"domain": [
+				  // apple更新
+				  "me.apple-dns.net",
+				//  "gateway.icloud.com",
+				//  "gateway.icloud.com.cn",
+				  "pancake.apple.com",
+				  "mesu.apple.com",
+				  "ocsp.apple.com",
+				  "aaplimg.com",
+				  "gdmf.apple.com",
+				  "map.qq.com"
+      	]
+    	}
+	    // {
+	    //   "domain_keyword": [
+	    //     "cn-hk-eq-bcache-"
+	    //   ]
+	    // },
+	    // {
+	    //   "ip_cidr": [
+	    //     "121.11.192.0/24"
+	    //   ]
+	    // }
+  	]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  	"rules": [
+    	{
+    		"domain": [
+					  // google
+				  "www.gstatic.com",
+				  "fonts.gstatic.com",
+				  "fonts.googleapis.com",
+				  // 国外影视
+				  "*.akamaized.net",
+				  "*.bilibili.tv",
+				  // 代理
+				  "getinfo.bigwatermelon.org",
+				  "zero.76898102.xyz",
+				  "sub.cm",
+				  "suo.yt",
+				  "api.dler.io",
+				  "sublimehq.com",
+				  "getfree.cloud",
+				  // other
+				  "greasyfork.org",
+				  "github.githubassets.com",
+				  "openwrt.org",
+				  "forum.openwrt.org",
+				  "sublimetext.com",
+				  "cloudflare.com",
+				  "v2ex.com",
+				  "kali.org",
+				  "moyu.im",
+				  "feedly.com",
+				  "stackoverflow.com",
+				  "redditstatic.com",
+				  // ChatGPT Site
+				  "chatbot.theb.ai",
+				  "freegpt.one"
+      	]
+    	}
+	    // {
+	    //   "domain_keyword": [
+	    //     "cn-hk-eq-bcache-"
+	    //   ]
+	    // },
+	    // {
+	    //   "ip_cidr": [
+	    //     "121.11.192.0/24"
+	    //   ]
+	    // }
+  	]
+}
