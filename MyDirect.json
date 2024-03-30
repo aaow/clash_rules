@@ -3,6 +3,9 @@
   	"rules": [
     	{
     		"domain": [
+  			  // 视频
+				  "*.bfengbf.com",
+				  // emby
 					"tw.loseremby.org",
 					"krde.loseremby.org",
 					"free.xmsl.org",

@@ -1,9 +1,8 @@
 payload: 
   # 荒野乱斗
-  - 'supercell.com'
-  - 'brawlstarsgame.com'
-  - 'brawlstars.com'
-  - 'www.dota2.com'
+  - '+.supercell.com'
+  - '+.brawlstarsgame.com'
+  - '+.brawlstars.com'
   # epic fallguys
   - 'cdn.gamefuel.info'
   - 'epicgames.dev'
