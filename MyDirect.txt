@@ -1,5 +1,8 @@
 payload:
   # 视频
+  - '+.cdnlz7.com'
+  - '+.4k4k.live'
+  - '+.4k4kyy.com'
   - '+.ihdslb.com'
   - '+.kuaikan-cdn4.com'
   - '+.kin6c1.com'
