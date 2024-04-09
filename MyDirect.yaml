@@ -42,6 +42,9 @@ payload:
   - 'right.com.cn'
   - 'adtidy.org'
   # 其他
+  - '+.adtidy.org'
+  - '+.wns.windows.com'
+  - '+.push.apple.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'
   - 'favicon.yandex.net'
