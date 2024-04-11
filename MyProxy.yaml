@@ -1,10 +1,13 @@
 payload: 
-  - '+.789.123456.al'
   # google
   - '+.www.gstatic.com'
   - '+.fonts.gstatic.com'
   - '+.fonts.googleapis.com'
   # 国外影视
+  - 'singularity.deja-vu.beauty'
+  - 'misty.ltd'
+  - 'xeton.dev'
+  - '+.789.123456.al'
   - '*.akamaized.net'
   - '*.bilibili.tv'
   # 代理

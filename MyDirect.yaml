@@ -25,6 +25,10 @@ payload:
   - '+.cibntv.net'
   - '+.bfengbf.com'
   # emby
+  - 'cfhd.xmsl.org'
+  - 'cf.xmsl.org'
+  - 'line.xmsl.org'
+  - '11.loseremby.org'
   - 'tw.loseremby.org'
   - 'krde.loseremby.org'
   - 'free.xmsl.org'
