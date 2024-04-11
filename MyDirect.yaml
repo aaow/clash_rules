@@ -1,4 +1,5 @@
 payload:
+  - 'cdn.steamstatic.com'
   # 视频
   - '+.cdnlz7.com'
   - '+.4k4k.live'
