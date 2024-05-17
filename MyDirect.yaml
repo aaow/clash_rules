@@ -48,21 +48,20 @@ payload:
   - 'adtidy.org'
   # 其他
   - '+.adtidy.org'
-  - '+.wns.windows.com'
-  - '+.push.apple.com'
   - 'aliyundrive.net'
   - 'ghproxy.net'
-  - 'favicon.yandex.net'
-  - 'luobo.cn'
-  - '737.com'
-  # 直播
-  - '+.yj1211.work'
   - '+.jsdelivr.net'
-  - '+.mayiapk.com'
+  - 'favicon.yandex.net'
   - '+.w3s.link'
   - '+.ksosoft.com'
   - '+.lenovomm.com'
   - '+.lenovo.com'
   - '+.189.ly93.cc'
+  # 包围萝卜
+  - 'luobo.cn'
+  - '737.com'
+  # 直播
+  - '+.yj1211.work'
+  - '+.mayiapk.com'
   # 图床
   - '+.imgtu.com'
