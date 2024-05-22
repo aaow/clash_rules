@@ -1,4 +1,7 @@
 payload: 
+  - 'steamcommunity.com'
+  - 'avatars.steamstatic.com'
+  - 'store.steampowered.com'
   # 荒野乱斗
   - '+.supercell.com'
   - '+.brawlstarsgame.com'
@@ -9,15 +12,6 @@ payload:
   - 'epicgames.net'
   - 'qos.multiplay.com'
   - 'fallguys.oncatapult.com'
-  # Steam国际创意工坊下载CDN
-  - 'steamusercontent-a.akamaihd.net'
-  # Battle.net战网非中国大陆地区游戏下载
-  - 'level3.blizzard.com #CDN-Level3'
-  - 'blzddist1-a.akamaihd.net'
-  - 'blzddistkr1-a.akamaihd.net'
-  - 'kr.cdn.blizzard.com'
-  - 'us.cdn.blizzard.com'
-  - 'eu.cdn.blizzard.com'
   # Epic Games非中国大陆地区游戏下载
   - 'epicgames-download1.akamaized.net'
   - 'epicgames.com'

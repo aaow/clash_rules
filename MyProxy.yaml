@@ -1,6 +1,5 @@
 payload: 
   # google
-
   - 'services.googleapis.cn'
   - '+.gstatic.com'
   - '+.fonts.gstatic.com'
@@ -12,7 +11,6 @@ payload:
   - '+.getinfo.bigwatermelon.org'
   - '+.zero.76898102.xyz'
   # other
-  - 'steamcommunity.com'
   - '+.greasyfork.org'
   - '+.github.githubassets.com'
   - '+.openwrt.org'
