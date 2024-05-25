@@ -1,4 +1,5 @@
 payload:
+  - 'mobile.events.data.microsoft.com'
   - 'webrtcpunch.video.qq.com'
   # apple更新
   - 'me.apple-dns.net'

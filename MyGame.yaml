@@ -1,4 +1,6 @@
 payload: 
+  - '+.+.steamstatic.com'
+  - 'api.steampowered.com'
   - 'steamcommunity.com'
   - 'avatars.steamstatic.com'
   - 'store.steampowered.com'
