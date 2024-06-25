@@ -23,3 +23,9 @@ payload:
   - '+.feedly.com'
   - '+.stackoverflow.com'
   - '+.redditstatic.com'
+  # docker
+  - '+.xiaoya.pro'
+  - 'access.mypikpak.com'
+  - 'api-drive.mypikpak.com'
+  - '+.mypikpak.com'
+  - '+.nn.ci'
