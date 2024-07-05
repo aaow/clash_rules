@@ -1,4 +1,5 @@
 payload:
+  - 'fastly-download.epicgames.com'
   - 'cdn.steamstatic.com'
   # 视频
   - '+.cdnlz7.com'
