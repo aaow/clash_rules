@@ -1,4 +1,5 @@
 payload:
+  - 'weatheroffer.com'
   - 'fastly-download.epicgames.com'
   - 'cdn.steamstatic.com'
   # tbbox
