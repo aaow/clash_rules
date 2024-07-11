@@ -3,10 +3,6 @@ payload:
   - 'fastly-download.epicgames.com'
   - 'cdn.steamstatic.com'
   # tbbox
-  - 'ok321.top'
-  - '+.xn--sss604efuw.com'
-  - '+.xn--z7x900a.com'
-  - '+.mpanso.com'
   # 视频
   - '+.cdnlz7.com'
   - '+.4k4k.live'
