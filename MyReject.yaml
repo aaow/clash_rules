@@ -13,3 +13,5 @@ payload:
   - 'map.qq.com'
   - 'ctldl.windowsupdate.com'
   - '+.wns.windows.com'
+  # tvbox
+  - '+.dious.cc'
