@@ -40,6 +40,7 @@ payload:
   - '+.cibntv.net'
   - '+.bfengbf.com'
   # emby
+  - 'free.xmsl.org'
   - '11.loseremby.org'
   - 'tw.loseremby.org'
   - 'krde.loseremby.org'
