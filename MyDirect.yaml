@@ -57,18 +57,18 @@ payload:
   - 'adtidy.org'
   # 其他
   - '+.adtidy.org'
-  - 'aliyundrive.net'
-  - 'ghproxy.net'
+  - '+.aliyundrive.net'
+  - '+.ghproxy.net'
   - '+.jsdelivr.net'
-  - 'favicon.yandex.net'
+  - '+.favicon.yandex.net'
   - '+.w3s.link'
   - '+.ksosoft.com'
   - '+.lenovomm.com'
   - '+.lenovo.com'
   - '+.189.ly93.cc'
   # 保卫萝卜
-  - 'luobo.cn'
-  - '737.com'
+  - '+.luobo.cn'
+  - '+.737.com'
   # 直播
   - '+.yj1211.work'
   - '+.mayiapk.com'
