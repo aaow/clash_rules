@@ -8,6 +8,9 @@ payload:
   # 国外影视
   - '*.akamaized.net'
   - '*.bilibili.tv'
+  # 代理
+  - '+.getinfo.bigwatermelon.org'
+  - '+.zero.76898102.xyz'
   # other
   - '+.greasyfork.org'
   - '+.github.githubassets.com'
@@ -27,3 +30,5 @@ payload:
   - 'api-drive.mypikpak.com'
   - '+.mypikpak.com'
   - '+.nn.ci'
+  # tbbox
+  - '+.xn--4kq62z5rby2qupq9ub.xyz'

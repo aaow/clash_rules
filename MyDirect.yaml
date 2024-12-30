@@ -2,7 +2,7 @@ payload:
   - 'weatheroffer.com'
   - 'fastly-download.epicgames.com'
   - 'cdn.steamstatic.com'
-  # tvbox
+  # tbbox
   - 'ok321.top'
   - '+.xn--sss604efuw.com'
   - '+.xn--z7x900a.com'
@@ -69,5 +69,8 @@ payload:
   # 保卫萝卜
   - '+.luobo.cn'
   - '+.737.com'
+  # 直播
+  - '+.yj1211.work'
+  - '+.mayiapk.com'
   # 图床
   - '+.imgtu.com'
