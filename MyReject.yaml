@@ -14,4 +14,4 @@ payload:
   - 'ctldl.windowsupdate.com'
   - '+.wns.windows.com'
   # 视频
-  - 'nnvod.com'
+  - '+.nnvod.com'
