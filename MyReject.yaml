@@ -1,4 +1,6 @@
 payload:
+  - 'pdds.quark.cn'
+  - 'download.quark.cn'
   - 'mobile.events.data.microsoft.com'
   - 'webrtcpunch.video.qq.com'
   # apple更新
