@@ -27,6 +27,7 @@ payload:
   - '+.czzy.site'
   - '+.rinhome.com'
   # 视频
+  - '+.haitu.tv'
   - '+.simaguo.com'
   - '+.ffzy-video.com'
   - '+.rrcdnbf5.com'
@@ -73,6 +74,7 @@ payload:
   - '+.lenovomm.com'
   - '+.lenovo.com'
   - '+.189.ly93.cc'
+  - '+.4512.qjty.one'
   # 保卫萝卜
   - '+.luobo.cn'
   - '+.737.com'
