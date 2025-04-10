@@ -1,9 +1,10 @@
 payload: 
-  - '+.+.steamstatic.com'
-  - 'api.steampowered.com'
-  - 'steamcommunity.com'
-  - 'avatars.steamstatic.com'
-  - 'store.steampowered.com'
+  # steam
+  # - '+.+.steamstatic.com'
+  # - 'api.steampowered.com'
+  # - 'steamcommunity.com'
+  # - 'avatars.steamstatic.com'
+  # - 'store.steampowered.com'
   # 荒野乱斗
   - '+.supercell.com'
   - '+.brawlstarsgame.com'
@@ -26,3 +27,12 @@ payload:
   - 'galaxy-client-update.gog.com'
   - 'steamcommunity.com'
   - 'connect.epicgames.dev'
+  # 饥荒
+  - 'lobby-v2-cdn.klei.com'
+  - '*.klei.com'
+  - 'motd.klei.com'
+  - 'dst.metrics.klei.com'
+  - '+.kleientertainment.com'
+  - '+.kleientertainment.com'
+  - '+.d2fr86khx60an2.cloudfront.net'
+  - '+.klei.ca'
