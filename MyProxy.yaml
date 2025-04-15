@@ -1,36 +1,10 @@
 payload: 
-  # google
-  - 'services.googleapis.cn'
-  - '+.gstatic.com'
-  - '+.fonts.gstatic.com'
-  - '+.fonts.googleapis.com'
-  - '+.licdn.com'
   # 国外影视
-  - '*.cnys.tv'
-  - '*.wolongzywcdn.com'
   - '*.akamaized.net'
   - '*.bilibili.tv'
-  # 代理
-  - '+.getinfo.bigwatermelon.org'
-  - '+.zero.76898102.xyz'
-  # other
-  - '+.greasyfork.org'
-  - '+.github.githubassets.com'
-  - '+.openwrt.org'
-  - '+.forum.openwrt.org'
-  - '+.sublimetext.com'
-  - '+.+.cloudflare.com'
-  - '+.v2ex.com'
-  - '+.kali.org'
-  - '+.moyu.im'
-  - '+.feedly.com'
-  - '+.stackoverflow.com'
-  - '+.redditstatic.com'
   # docker
   - '+.xiaoya.pro'
   - 'access.mypikpak.com'
   - 'api-drive.mypikpak.com'
   - '+.mypikpak.com'
   - '+.nn.ci'
-  # tbbox
-  - '+.xn--4kq62z5rby2qupq9ub.xyz'
