@@ -4,7 +4,7 @@ payload:
   - '*.bilibili.tv'
   # docker
   - '+.xiaoya.pro'
-  - 'access.mypikpak.com'
-  - 'api-drive.mypikpak.com'
+  - '+.access.mypikpak.com'
+  - '+.api-drive.mypikpak.com'
   - '+.mypikpak.com'
   - '+.nn.ci'
