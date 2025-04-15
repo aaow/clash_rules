@@ -1,10 +1,7 @@
 payload:
+  # ai
   - '+.hf-mirror.com'
-  - 'weatheroffer.com'
-  - 'fastly-download.epicgames.com'
-  - 'cdn.steamstatic.com'
   # tbbox
-  - 'ok321.top'
   - '+.xn--sss604efuw.com'
   - '+.xn--z7x900a.com'
   - '+.mpanso.com'
@@ -26,7 +23,6 @@ payload:
   - '+.xpgtv.net'
   - '+.czzy.site'
   - '+.rinhome.com'
-  # 视频
   - '+.haitu.tv'
   - '+.simaguo.com'
   - '+.ffzy-video.com'
