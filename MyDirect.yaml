@@ -74,3 +74,5 @@ payload:
   - '+.mayiapk.com'
   # 图床
   - '+.imgtu.com'
+  # 门禁
+  - '+.lggafw.com'
