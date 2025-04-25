@@ -1,12 +1,10 @@
 payload:
-  - 'pdds.quark.cn'
-  - 'download.quark.cn'
   - 'mobile.events.data.microsoft.com'
   - 'webrtcpunch.video.qq.com'
   # apple更新
   - 'me.apple-dns.net'
-#  - 'gateway.icloud.com'
-#  - 'gateway.icloud.com.cn'
+  - 'gateway.icloud.com'
+  - 'gateway.icloud.com.cn'
   - 'pancake.apple.com'
   - 'mesu.apple.com'
   - 'ocsp.apple.com'
@@ -15,6 +13,6 @@ payload:
   - 'map.qq.com'
   - 'ctldl.windowsupdate.com'
   - '+.wns.windows.com'
-  # 视频
-  # - '+.nnvod.com'
-  
+  # AD
+  - '+.tkda.mosspf.com'
+  - '+.tkda.com'
