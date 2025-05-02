@@ -78,4 +78,5 @@ payload:
   - '+.lggafw.com'
   # CDN
   - '+.akamaihd.net'
+  - '+.akamaized.net'
   
