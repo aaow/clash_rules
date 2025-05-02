@@ -76,3 +76,6 @@ payload:
   - '+.imgtu.com'
   # 门禁
   - '+.lggafw.com'
+  # CDN
+  - '+.akamaihd.net'
+  
