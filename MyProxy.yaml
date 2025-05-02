@@ -1,6 +1,5 @@
 payload: 
   # 国外影视
-  - '*.akamaized.net'
   - '*.bilibili.tv'
   # docker
   - '+.xiaoya.pro'
